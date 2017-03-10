@@ -1,0 +1,3 @@
+-- Keep this file here, dont delete, this is for migration, remove the query from which ran on 
+-- server
+-- Don't Keep database name in this query

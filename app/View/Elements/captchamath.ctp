@@ -1,0 +1,1 @@
+<div class="left mathtext"><label><?php echo  __($settings['mlabel']); ?></label>  <span class="math-operation"><?php echo $settings['stringOperation'].' = ?';?></span></div>

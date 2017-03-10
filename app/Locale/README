@@ -1,0 +1,14 @@
+For Implementing the localization
+
+File extenstion should be .po and should be in related folder
+
+Also give permission 644 to .po file
+
+You can generate the file by i18n extract command and then copy that file to the locale i.e. guj/LC_MESSAGES folderol
+
+Make sure the file permission and name.
+
+Debugging can be done in I18n.php or L10n.php
+
+in I18n.php look for _bindTextDomain for debugging the issue
+

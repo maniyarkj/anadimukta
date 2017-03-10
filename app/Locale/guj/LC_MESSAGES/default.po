@@ -1,0 +1,2761 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"PO-Revision-Date: 2017-01-29 16:28+1000\n"
+"Language-Team: EMAIL@ADDRESS\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"POT-Creation-Date: \n"
+"X-Generator: Poedit 1.8.11\n"
+"Last-Translator: \n"
+"Language: gu_IN\n"
+
+#: Controller/AuthorsController.php:48;85;116
+msgid "Invalid author"
+msgstr "અમાન્ય લેખક"
+
+#: Controller/AuthorsController.php:64;90
+msgid "The author has been saved."
+msgstr ""
+
+#: Controller/AuthorsController.php:69;95
+msgid "The author could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/AuthorsController.php:120
+msgid "The author has been deleted."
+msgstr ""
+
+#: Controller/AuthorsController.php:124
+msgid "The author could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CentersController.php:48;87;120
+msgid "Invalid center"
+msgstr ""
+
+#: Controller/CentersController.php:64;92
+msgid "The center has been saved."
+msgstr ""
+
+#: Controller/CentersController.php:69;97
+msgid "The center could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CentersController.php:124
+msgid "The center has been deleted."
+msgstr ""
+
+#: Controller/CentersController.php:128
+msgid "The center could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CitiesController.php:42;83;118
+msgid "Invalid city"
+msgstr ""
+
+#: Controller/CitiesController.php:58;88
+msgid "The city has been saved."
+msgstr ""
+
+#: Controller/CitiesController.php:63;93
+msgid "The city could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CitiesController.php:122
+msgid "The city has been deleted."
+msgstr ""
+
+#: Controller/CitiesController.php:126
+msgid "The city could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/CountriesController.php:42;79;110
+msgid "Invalid country"
+msgstr ""
+
+#: Controller/CountriesController.php:58;84
+msgid "The country has been saved."
+msgstr ""
+
+#: Controller/CountriesController.php:63;89
+msgid "The country could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/CountriesController.php:114
+msgid "The country has been deleted."
+msgstr ""
+
+#: Controller/CountriesController.php:118
+msgid "The country could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/DistrictsController.php:42;82;116
+msgid "Invalid district"
+msgstr ""
+
+#: Controller/DistrictsController.php:58;87
+msgid "The district has been saved."
+msgstr ""
+
+#: Controller/DistrictsController.php:63;92
+msgid "The district could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/DistrictsController.php:120
+msgid "The district has been deleted."
+msgstr ""
+
+#: Controller/DistrictsController.php:124
+msgid "The district could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/EventsController.php:49;67;119;153
+msgid "Invalid event"
+msgstr ""
+
+#: Controller/EventsController.php:95;124
+msgid "The event has been saved."
+msgstr ""
+
+#: Controller/EventsController.php:100;129
+msgid "The event could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/EventsController.php:157
+msgid "The event has been deleted."
+msgstr ""
+
+#: Controller/EventsController.php:161
+msgid "The event could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/FeedbackSubjectsController.php:42;79;109
+msgid "Invalid feedback subject"
+msgstr ""
+
+#: Controller/FeedbackSubjectsController.php:58;83
+msgid "The feedback subject has been saved."
+msgstr ""
+
+#: Controller/FeedbackSubjectsController.php:63;88
+msgid "The feedback subject could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/FeedbackSubjectsController.php:113
+msgid "The feedback subject has been deleted."
+msgstr ""
+
+#: Controller/FeedbackSubjectsController.php:117
+msgid "The feedback subject could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/FeedbacksController.php:42;82;115;150;190;223
+msgid "Invalid feedback"
+msgstr ""
+
+#: Controller/FeedbacksController.php:58;86;166;194
+msgid "The feedback has been saved."
+msgstr ""
+
+#: Controller/FeedbacksController.php:63;91;171;199
+msgid "The feedback could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/FeedbacksController.php:119;227
+msgid "The feedback has been deleted."
+msgstr ""
+
+#: Controller/FeedbacksController.php:123;231
+msgid "The feedback could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/GroupsController.php:49;86;116
+msgid "Invalid group"
+msgstr ""
+
+#: Controller/GroupsController.php:65;90
+msgid "The group has been saved."
+msgstr ""
+
+#: Controller/GroupsController.php:70;95
+msgid "The group could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/GroupsController.php:120
+msgid "The group has been deleted."
+msgstr ""
+
+#: Controller/GroupsController.php:124
+msgid "The group could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/MediasController.php:29
+msgid "Invalid Request"
+msgstr ""
+
+#: Controller/MediasController.php:44
+msgid "The media has been saved."
+msgstr ""
+
+#: Controller/MediasController.php:49
+msgid "The media could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/MediasController.php:83;100
+msgid "Invalid media"
+msgstr ""
+
+#: Controller/MediasController.php:104
+msgid "The media has been deleted."
+msgstr ""
+
+#: Controller/MediasController.php:108
+msgid "The media could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PagesController.php:43;70;107;138
+msgid "Invalid page"
+msgstr ""
+
+#: Controller/PagesController.php:86;112
+msgid "The page has been saved."
+msgstr ""
+
+#: Controller/PagesController.php:91;117
+msgid "The page could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PagesController.php:142
+msgid "The page has been deleted."
+msgstr ""
+
+#: Controller/PagesController.php:146
+msgid "The page could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:56
+#: Controller/PrasangsController.php:327
+msgid "Please select request to print."
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:84;157;187;212
+msgid "Invalid prasangrequest"
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:102;161
+msgid "The prasangrequest has been saved."
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:107;166
+msgid "The prasangrequest could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:127
+#: Controller/PrasangsController.php:171;405;434;475
+msgid "The prasang could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:191
+msgid "The prasangrequest has been deleted."
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:195
+msgid "The prasangrequest could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:218
+msgid "The prasangrequest has been discarded."
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:222
+msgid "The prasangrequest could not be discarded. Please, try again."
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:240
+msgid "Please select atleast a request."
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:274
+msgid "%s request(s) has been accepted for writing and %s requests failed"
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:281
+msgid "%s request(s) has been accepted for writing"
+msgstr ""
+
+#: Controller/PrasangrequestsController.php:288
+msgid "%s requests failed. Please, try again."
+msgstr ""
+
+#: Controller/PrasangsController.php:109;162;203;356;382;463;520
+msgid "Invalid prasang"
+msgstr ""
+
+#: Controller/PrasangsController.php:166;398;429;470
+msgid "The prasang has been saved."
+msgstr ""
+
+#: Controller/PrasangsController.php:207;524
+msgid "The prasang has been deleted."
+msgstr ""
+
+#: Controller/PrasangsController.php:211;528
+msgid "The prasang could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/PrasangsController.php:364
+msgid "Please Select"
+msgstr ""
+
+#: Controller/QuotesController.php:49;86;117
+msgid "Invalid quote"
+msgstr ""
+
+#: Controller/QuotesController.php:65;91
+msgid "The quote has been saved."
+msgstr ""
+
+#: Controller/QuotesController.php:70;96
+msgid "The quote could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/QuotesController.php:121
+msgid "The quote has been deleted."
+msgstr ""
+
+#: Controller/QuotesController.php:125
+msgid "The quote could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ReferenceTypesController.php:42;79;109
+msgid "Invalid reference type"
+msgstr ""
+
+#: Controller/ReferenceTypesController.php:58;83
+msgid "The reference type has been saved."
+msgstr ""
+
+#: Controller/ReferenceTypesController.php:63;88
+msgid "The reference type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ReferenceTypesController.php:113
+msgid "The reference type has been deleted."
+msgstr ""
+
+#: Controller/ReferenceTypesController.php:117
+msgid "The reference type could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ReferencesController.php:56;98;133;170;216;255
+msgid "Invalid reference"
+msgstr ""
+
+#: Controller/ReferencesController.php:72;102;189;221
+msgid "The reference has been saved."
+msgstr ""
+
+#: Controller/ReferencesController.php:77;107;194;226
+msgid "The reference could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ReferencesController.php:137;259
+msgid "The reference has been deleted."
+msgstr ""
+
+#: Controller/ReferencesController.php:141;263
+msgid "The reference could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SectionsController.php:48;85;116
+msgid "Invalid section"
+msgstr ""
+
+#: Controller/SectionsController.php:64;90
+msgid "The section has been saved."
+msgstr ""
+
+#: Controller/SectionsController.php:69;95
+msgid "The section could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SectionsController.php:120
+msgid "The section has been deleted."
+msgstr ""
+
+#: Controller/SectionsController.php:124
+msgid "The section could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/StatesController.php:42;81;114
+msgid "Invalid state"
+msgstr ""
+
+#: Controller/StatesController.php:58;86
+msgid "The state has been saved."
+msgstr ""
+
+#: Controller/StatesController.php:63;91
+msgid "The state could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/StatesController.php:118
+msgid "The state has been deleted."
+msgstr ""
+
+#: Controller/StatesController.php:122
+msgid "The state could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/SubjectsController.php:63;111;151
+msgid "Invalid subject"
+msgstr ""
+
+#: Controller/SubjectsController.php:80;116
+msgid "The subject has been saved."
+msgstr ""
+
+#: Controller/SubjectsController.php:85;121
+msgid "The subject could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/SubjectsController.php:155
+msgid "The subject has been deleted."
+msgstr ""
+
+#: Controller/SubjectsController.php:159
+msgid ""
+"The subject could not be deleted. Subject with no child and not assigned to "
+"any Prasang only allowed to delete."
+msgstr ""
+
+#: Controller/TalukasController.php:42;83;118
+msgid "Invalid taluka"
+msgstr ""
+
+#: Controller/TalukasController.php:58;88
+msgid "The taluka has been saved."
+msgstr ""
+
+#: Controller/TalukasController.php:63;93
+msgid "The taluka could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TalukasController.php:122
+msgid "The taluka has been deleted."
+msgstr ""
+
+#: Controller/TalukasController.php:126
+msgid "The taluka could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/TraditionsController.php:63;90;127;158
+msgid "Invalid tradition"
+msgstr ""
+
+#: Controller/TraditionsController.php:106;132
+msgid "The tradition has been saved."
+msgstr ""
+
+#: Controller/TraditionsController.php:111;137
+msgid "The tradition could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/TraditionsController.php:162
+msgid "The tradition has been deleted."
+msgstr ""
+
+#: Controller/TraditionsController.php:166
+msgid "The tradition could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UserTypesController.php:43;82;114
+msgid "Invalid user type"
+msgstr ""
+
+#: Controller/UserTypesController.php:59;86
+msgid "The user type has been saved."
+msgstr ""
+
+#: Controller/UserTypesController.php:64;91
+msgid "The user type could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UserTypesController.php:118
+msgid "The user type has been deleted."
+msgstr ""
+
+#: Controller/UserTypesController.php:122
+msgid "The user type could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UserdetailsController.php:49;79;131;179
+msgid "Invalid user detail"
+msgstr ""
+
+#: Controller/UserdetailsController.php:97;141
+msgid "The user detail has been saved."
+msgstr ""
+
+#: Controller/UserdetailsController.php:102;146
+msgid "The user detail could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UserdetailsController.php:183
+msgid "The user detail has been deleted."
+msgstr ""
+
+#: Controller/UserdetailsController.php:187
+msgid "The user detail could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:54;93;126
+msgid "Invalid user"
+msgstr ""
+
+#: Controller/UsersController.php:70;98
+msgid "The user has been saved."
+msgstr ""
+
+#: Controller/UsersController.php:75;103
+msgid "The user could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:130
+msgid "The user has been deleted."
+msgstr ""
+
+#: Controller/UsersController.php:134
+msgid "The user could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/UsersController.php:151
+msgid "Your username or password was incorrect."
+msgstr ""
+
+#: Controller/UsersController.php:180
+msgid "Thank you for registering. Please login using username and password"
+msgstr ""
+
+#: Controller/UsersController.php:185
+msgid "There was some error. Please check your details."
+msgstr ""
+
+#: Controller/UsersController.php:251
+msgid "<span class=\"not-available\">Username Taken!</span>"
+msgstr ""
+
+#: Controller/UsersController.php:254
+msgid "<span class=\"available\">Available</span>"
+msgstr ""
+
+#: Controller/WithsController.php:42;79;110
+msgid "Invalid with"
+msgstr ""
+
+#: Controller/WithsController.php:58;84
+msgid "The with has been saved."
+msgstr ""
+
+#: Controller/WithsController.php:63;89
+msgid "The with could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/WithsController.php:114
+msgid "The with has been deleted."
+msgstr ""
+
+#: Controller/WithsController.php:118
+msgid "The with could not be deleted. Please, try again."
+msgstr ""
+
+#: Controller/ZonesController.php:42;79;110
+msgid "Invalid zone"
+msgstr ""
+
+#: Controller/ZonesController.php:58;84
+msgid "The zone has been saved."
+msgstr ""
+
+#: Controller/ZonesController.php:63;89
+msgid "The zone could not be saved. Please, try again."
+msgstr ""
+
+#: Controller/ZonesController.php:114
+msgid "The zone has been deleted."
+msgstr ""
+
+#: Controller/ZonesController.php:118
+msgid "The zone could not be deleted. Please, try again."
+msgstr ""
+
+#: Model/Prasangrequest.php:241 View/Centers/admin_view.ctp:70
+#: View/Cities/admin_view.ctp:84 View/Countries/admin_view.ctp:139
+#: View/Districts/admin_view.ctp:116 View/Events/admin_view.ctp:100
+#: View/Feedbacks/admin_view.ctp:43 View/Groups/admin_view.ctp:48;80
+#: View/Medias/admin_view.ctp:86 View/Pages/admin_view.ctp:60
+#: View/Quotes/admin_view.ctp:72 View/ReferenceTypes/admin_view.ctp:70
+#: View/References/admin_view.ctp:191;222 View/References/view.ctp:96;127
+#: View/Sections/admin_view.ctp:69 View/States/admin_view.ctp:146
+#: View/Subjects/admin_view.ctp:36;89;161 View/Talukas/admin_view.ctp:91
+#: View/Traditions/admin_view.ctp:74 View/UserDetails/admin_view.ctp:190
+#: View/UserDetails/view.ctp:190 View/UserTypes/admin_view.ctp:84;162
+#: View/Users/admin_view.ctp:66;98;155 View/Withs/admin_view.ctp:87
+#: View/Zones/admin_view.ctp:98
+msgid "Created"
+msgstr ""
+
+#: Model/Prasangrequest.php:242
+msgid "Accepted"
+msgstr ""
+
+#: Model/Prasangrequest.php:243
+msgid "Discarded"
+msgstr ""
+
+#: Plugin/Upload/Model/Behavior/UploadBehavior.php:1078
+msgid "No filename after parsing. Function %s returned an invalid filename"
+msgstr ""
+
+#: Plugin/acl_extras/Console/Command/AclExtrasShell.php:80
+msgid "Plugin to process"
+msgstr ""
+
+#: Plugin/acl_extras/Console/Command/AclExtrasShell.php:83
+msgid "Better manage, and easily synchronize you application's ACO tree"
+msgstr ""
+
+#: Plugin/acl_extras/Console/Command/AclExtrasShell.php:88
+msgid ""
+"Add new ACOs for new controllers and actions. Does not remove nodes from the "
+"ACO table."
+msgstr ""
+
+#: Plugin/acl_extras/Console/Command/AclExtrasShell.php:93
+msgid ""
+"Perform a full sync on the ACO table.Will create new ACOs or missing "
+"controllers and actions.Will also remove orphaned entries that no longer "
+"have a matching controller/action"
+msgstr ""
+
+#: Plugin/acl_extras/Console/Command/AclExtrasShell.php:97
+msgid "Verify the tree structure of either your Aco or Aro Trees"
+msgstr ""
+
+#: Plugin/acl_extras/Console/Command/AclExtrasShell.php:102
+msgid "The type of tree to verify"
+msgstr ""
+
+#: Plugin/acl_extras/Console/Command/AclExtrasShell.php:108
+msgid "Recover a corrupted Tree"
+msgstr ""
+
+#: Plugin/acl_extras/Console/Command/AclExtrasShell.php:113
+msgid "The type of tree to recover"
+msgstr ""
+
+#: Plugin/acl_extras/Lib/AclExtras.php:123
+msgid "<error>Plugin %s not found or not activated</error>"
+msgstr ""
+
+#: Plugin/acl_extras/Lib/AclExtras.php:136
+msgid "<success>Aco Update Complete</success>"
+msgstr ""
+
+#: Plugin/acl_extras/Lib/AclExtras.php:181
+msgid "Deleted %s and all children"
+msgstr ""
+
+#: Plugin/acl_extras/Lib/AclExtras.php:222
+msgid "Created Aco node: <success>%s</success>"
+msgstr ""
+
+#: Plugin/acl_extras/Lib/AclExtras.php:275
+msgid "Unable to get methods for \"%s\""
+msgstr ""
+
+#: Plugin/acl_extras/Lib/AclExtras.php:296
+msgid "Deleted Aco node: <warning>%s</warning>"
+msgstr ""
+
+#: Plugin/acl_extras/Lib/AclExtras.php:315
+msgid "<success>Tree is valid and strong</success>"
+msgstr ""
+
+#: Plugin/acl_extras/Lib/AclExtras.php:333
+msgid "Tree has been recovered, or tree did not need recovery."
+msgstr ""
+
+#: Plugin/acl_extras/Lib/AclExtras.php:335
+msgid "<error>Tree recovery failed.</error>"
+msgstr ""
+
+#: View/Authors/admin_add.ctp:6
+msgid "Add Author"
+msgstr ""
+
+#: View/Authors/admin_edit.ctp:6
+msgid "Edit Author"
+msgstr ""
+
+#: View/Authors/admin_index.ctp:6
+msgid "Authors"
+msgstr ""
+
+#: View/Authors/admin_index.ctp:14 View/Prasangs/admin_add2.ctp:68
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Author"
+msgstr ""
+
+#: View/Authors/admin_index.ctp:34 View/Centers/admin_index.ctp:41
+#: View/Centers/admin_view.ctp:103 View/Cities/admin_index.ctp:53
+#: View/Cities/admin_view.ctp:117 View/Countries/admin_index.ctp:34
+#: View/Countries/admin_view.ctp:62;99;172 View/Districts/admin_index.ctp:45
+#: View/Districts/admin_view.ctp:76;149 View/Events/admin_index.ctp:54
+#: View/Events/admin_view.ctp:25 View/FeedbackSubjects/admin_index.ctp:35
+#: View/Feedbacks/admin_index.ctp:43 View/Groups/admin_edit.ctp:21
+#: View/Groups/admin_index.ctp:34 View/Groups/admin_view.ctp:19;97
+#: View/Medias/admin_grid.ctp:31 View/Medias/admin_index.ctp:41
+#: View/Medias/admin_view.ctp:25 View/Pages/admin_index.ctp:50
+#: View/Pages/admin_view.ctp:19 View/Prasangrequests/edit.ctp:25
+#: View/Prasangs/admin_index.ctp:91 View/Quotes/admin_index.ctp:54
+#: View/Quotes/admin_view.ctp:25 View/ReferenceTypes/admin_edit.ctp:21
+#: View/ReferenceTypes/admin_index.ctp:47
+#: View/ReferenceTypes/admin_view.ctp:19;91 View/References/admin_edit.ctp:23
+#: View/References/admin_index.ctp:174 View/References/admin_view.ctp:33;262
+#: View/References/edit.ctp:21 View/References/index.ctp:75
+#: View/References/view.ctp:19;143 View/Sections/admin_index.ctp:37
+#: View/Sections/admin_view.ctp:113 View/States/admin_index.ctp:41
+#: View/States/admin_view.ctp:69;106;179 View/Subjects/admin_index.ctp:77
+#: View/Subjects/admin_view.ctp:133;182 View/Talukas/admin_index.ctp:47
+#: View/Talukas/admin_view.ctp:124 View/Traditions/admin_index.ctp:40
+#: View/Traditions/admin_view.ctp:19 View/UserDetails/admin_index.ctp:58
+#: View/UserDetails/admin_view.ctp:19 View/UserDetails/edit.ctp:21
+#: View/UserDetails/index.ctp:121 View/UserDetails/view.ctp:19
+#: View/UserTypes/admin_index.ctp:38 View/UserTypes/admin_view.ctp:19;117;206
+#: View/Users/admin_index.ctp:100 View/Users/admin_view.ctp:19;115;188
+#: View/Withs/admin_index.ctp:39 View/Withs/admin_view.ctp:19;131
+#: View/Zones/admin_index.ctp:38 View/Zones/admin_view.ctp:58;131
+msgid "Are you sure you want to delete # %s?"
+msgstr ""
+
+#: View/Authors/admin_index.ctp:42 View/Centers/admin_index.ctp:49
+#: View/Cities/admin_index.ctp:61 View/Countries/admin_index.ctp:42
+#: View/Districts/admin_index.ctp:53 View/Events/admin_index.ctp:64
+#: View/FeedbackSubjects/admin_index.ctp:43 View/Feedbacks/admin_index.ctp:51
+#: View/Groups/admin_index.ctp:42 View/Medias/admin_grid.ctp:43
+#: View/Medias/admin_index.ctp:54 View/Pages/admin_index.ctp:60
+#: View/Prasangrequests/admin_index.ctp:97 View/Prasangs/admin_index.ctp:102
+#: View/Prasangs/admin_uploaded.ctp:112 View/Prasangs/admin_writing.ctp:112
+#: View/Quotes/admin_index.ctp:64 View/ReferenceTypes/admin_index.ctp:55
+#: View/References/admin_index.ctp:186 View/References/index.ctp:83
+#: View/Sections/admin_index.ctp:45 View/States/admin_index.ctp:49
+#: View/Subjects/admin_index.ctp:85 View/Talukas/admin_index.ctp:55
+#: View/Traditions/admin_index.ctp:50 View/UserDetails/admin_index.ctp:66
+#: View/UserDetails/index.ctp:129 View/UserTypes/admin_index.ctp:46
+#: View/Users/admin_index.ctp:112 View/Withs/admin_index.ctp:47
+#: View/Zones/admin_index.ctp:46
+msgid ""
+"Page {:page} of {:pages}, showing {:current} records out of {:count} total, "
+"starting on record {:start}, ending on {:end}"
+msgstr ""
+
+#: View/Authors/admin_view.ctp:5 View/Prasangs/admin_view.ctp:32
+msgid "Author"
+msgstr ""
+
+#: View/Authors/admin_view.ctp:16 View/Centers/admin_view.ctp:15;50
+#: View/Cities/admin_view.ctp:15;64 View/Countries/admin_view.ctp:15;43;82;119
+#: View/Districts/admin_view.ctp:15;57;96 View/Events/admin_view.ctp:44
+#: View/FeedbackSubjects/admin_view.ctp:15 View/Feedbacks/admin_view.ctp:15
+#: View/Groups/admin_view.ctp:34;76 View/Medias/admin_view.ctp:44
+#: View/Pages/admin_view.ctp:32 View/Quotes/admin_view.ctp:44
+#: View/ReferenceTypes/admin_view.ctp:34;62 View/References/admin_view.ctp:219
+#: View/References/view.ctp:40;124 View/Sections/admin_view.ctp:16;44
+#: View/States/admin_view.ctp:15;50;89;126
+#: View/Subjects/admin_view.ctp:15;64;153 View/Talukas/admin_view.ctp:15;71
+#: View/Traditions/admin_view.ctp:32 View/UserDetails/admin_view.ctp:50
+#: View/UserDetails/view.ctp:50 View/UserTypes/admin_view.ctp:36;64;137
+#: View/Users/admin_view.ctp:38;94;135 View/Withs/admin_view.ctp:34;62
+#: View/Zones/admin_view.ctp:15;43;78
+msgid "Id"
+msgstr ""
+
+#: View/Authors/admin_view.ctp:23 View/Centers/admin_view.ctp:22
+#: View/Cities/admin_view.ctp:22 View/Countries/admin_view.ctp:22;44;83
+#: View/Districts/admin_view.ctp:22;58 View/Groups/admin_view.ctp:41
+#: View/Medias/admin_view.ctp:51 View/Sections/admin_view.ctp:23
+#: View/States/admin_view.ctp:22;51;90 View/Talukas/admin_view.ctp:22
+#: View/Withs/admin_view.ctp:41 View/Zones/admin_view.ctp:22;44
+msgid "Name"
+msgstr ""
+
+#: View/Centers/admin_add.ctp:6
+msgid "Add Center"
+msgstr ""
+
+#: View/Centers/admin_edit.ctp:6
+msgid "Edit Center"
+msgstr ""
+
+#: View/Centers/admin_index.ctp:6
+msgid "Centers"
+msgstr ""
+
+#: View/Centers/admin_index.ctp:17 View/UserDetails/add.ctp:39
+#: View/UserDetails/edit.ctp:40 View/UserDetails/index.ctp:39
+#: View/Zones/admin_view.ctp:67
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Center"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:5 View/Prasangrequests/admin_print.ctp:50
+#: View/Prasangs/admin_print.ctp:60 View/UserDetails/admin_view.ctp:176
+#: View/UserDetails/view.ctp:176
+msgid "Center"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:29 View/Prasangrequests/admin_print.ctp:44
+#: View/Prasangs/admin_print.ctp:54 View/UserDetails/admin_view.ctp:169
+#: View/UserDetails/view.ctp:169 View/Zones/admin_view.ctp:5
+msgid "Zone"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:45 View/Cities/admin_view.ctp:59
+#: View/Countries/admin_view.ctp:114 View/Districts/admin_view.ctp:91
+#: View/States/admin_view.ctp:121 View/Talukas/admin_view.ctp:66
+#: View/UserTypes/admin_view.ctp:59 View/Users/admin_view.ctp:130
+#: View/Zones/admin_view.ctp:73
+msgid "Related User Details"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:51 View/Cities/admin_view.ctp:65
+#: View/Countries/admin_view.ctp:120 View/Districts/admin_view.ctp:97
+#: View/States/admin_view.ctp:127 View/Talukas/admin_view.ctp:72
+#: View/UserTypes/admin_view.ctp:65 View/Users/admin_view.ctp:95;136
+#: View/Zones/admin_view.ctp:79
+msgid "User Id"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:52 View/Cities/admin_view.ctp:66
+#: View/Countries/admin_view.ctp:121 View/Districts/admin_view.ctp:98
+#: View/States/admin_view.ctp:128 View/Talukas/admin_view.ctp:73
+#: View/UserTypes/admin_view.ctp:66 View/Users/admin_view.ctp:137
+#: View/Zones/admin_view.ctp:80
+msgid "User Type Id"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:53 View/Cities/admin_view.ctp:67
+#: View/Countries/admin_view.ctp:122 View/Districts/admin_view.ctp:99
+#: View/States/admin_view.ctp:129 View/Talukas/admin_view.ctp:74
+#: View/UserDetails/admin_view.ctp:71 View/UserDetails/view.ctp:71
+#: View/UserTypes/admin_view.ctp:67 View/Users/admin_view.ctp:138
+#: View/Zones/admin_view.ctp:81
+msgid "First Name"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:54 View/Cities/admin_view.ctp:68
+#: View/Countries/admin_view.ctp:123 View/Districts/admin_view.ctp:100
+#: View/States/admin_view.ctp:130 View/Talukas/admin_view.ctp:75
+#: View/UserDetails/admin_view.ctp:78 View/UserDetails/view.ctp:78
+#: View/UserTypes/admin_view.ctp:68 View/Users/admin_view.ctp:139
+#: View/Zones/admin_view.ctp:82
+msgid "Middle Name"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:55 View/Cities/admin_view.ctp:69
+#: View/Countries/admin_view.ctp:124 View/Districts/admin_view.ctp:101
+#: View/States/admin_view.ctp:131 View/Talukas/admin_view.ctp:76
+#: View/UserDetails/admin_view.ctp:85 View/UserDetails/view.ctp:85
+#: View/UserTypes/admin_view.ctp:69 View/Users/admin_view.ctp:140
+#: View/Zones/admin_view.ctp:83
+msgid "Last Name"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:56 View/Cities/admin_view.ctp:70
+#: View/Countries/admin_view.ctp:125 View/Districts/admin_view.ctp:102
+#: View/Prasangrequests/admin_print.ctp:40 View/Prasangs/admin_print.ctp:50
+#: View/States/admin_view.ctp:132 View/Talukas/admin_view.ctp:77
+#: View/UserDetails/admin_view.ctp:92 View/UserDetails/view.ctp:92
+#: View/UserTypes/admin_view.ctp:70 View/Users/admin_view.ctp:141
+#: View/Zones/admin_view.ctp:84
+msgid "Email"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:57 View/Cities/admin_view.ctp:71
+#: View/Countries/admin_view.ctp:126 View/Districts/admin_view.ctp:103
+#: View/States/admin_view.ctp:133 View/Talukas/admin_view.ctp:78
+#: View/UserDetails/admin_view.ctp:99 View/UserDetails/view.ctp:99
+#: View/UserTypes/admin_view.ctp:71 View/Users/admin_view.ctp:142
+#: View/Zones/admin_view.ctp:85
+msgid "Mobile"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:58 View/Cities/admin_view.ctp:72
+#: View/Countries/admin_view.ctp:46;84;127 View/Districts/admin_view.ctp:60;104
+#: View/States/admin_view.ctp:53;91;134 View/Talukas/admin_view.ctp:79
+#: View/UserTypes/admin_view.ctp:72 View/Users/admin_view.ctp:143
+#: View/Zones/admin_view.ctp:86
+msgid "Country Id"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:59 View/Cities/admin_view.ctp:73
+#: View/Countries/admin_view.ctp:45;85;128 View/Districts/admin_view.ctp:59;105
+#: View/States/admin_view.ctp:52;92;135 View/Talukas/admin_view.ctp:80
+#: View/UserTypes/admin_view.ctp:73 View/Users/admin_view.ctp:144
+#: View/Zones/admin_view.ctp:87
+msgid "State Id"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:60 View/Cities/admin_view.ctp:74
+#: View/Countries/admin_view.ctp:47;129 View/Districts/admin_view.ctp:61;106
+#: View/States/admin_view.ctp:54;136 View/Talukas/admin_view.ctp:81
+#: View/UserTypes/admin_view.ctp:74 View/Users/admin_view.ctp:145
+#: View/Zones/admin_view.ctp:88
+msgid "District Id"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:61 View/Cities/admin_view.ctp:75
+#: View/Countries/admin_view.ctp:130 View/Districts/admin_view.ctp:107
+#: View/States/admin_view.ctp:137 View/Talukas/admin_view.ctp:82
+#: View/UserTypes/admin_view.ctp:75 View/Users/admin_view.ctp:146
+#: View/Zones/admin_view.ctp:89
+msgid "Taluka Id"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:62 View/Cities/admin_view.ctp:76
+#: View/Countries/admin_view.ctp:131 View/Districts/admin_view.ctp:108
+#: View/States/admin_view.ctp:138 View/Talukas/admin_view.ctp:83
+#: View/UserTypes/admin_view.ctp:76 View/Users/admin_view.ctp:147
+#: View/Zones/admin_view.ctp:90
+msgid "City Id"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:63 View/Cities/admin_view.ctp:77
+#: View/Countries/admin_view.ctp:132 View/Districts/admin_view.ctp:109
+#: View/States/admin_view.ctp:139 View/Talukas/admin_view.ctp:84
+#: View/UserDetails/admin_view.ctp:141 View/UserDetails/view.ctp:141
+#: View/UserTypes/admin_view.ctp:77 View/Users/admin_view.ctp:148
+#: View/Zones/admin_view.ctp:91
+msgid "Dob"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:64 View/Cities/admin_view.ctp:78
+#: View/Countries/admin_view.ctp:133 View/Districts/admin_view.ctp:110
+#: View/States/admin_view.ctp:140 View/Talukas/admin_view.ctp:85
+#: View/UserDetails/admin_view.ctp:148 View/UserDetails/view.ctp:148
+#: View/UserTypes/admin_view.ctp:78 View/Users/admin_view.ctp:149
+#: View/Zones/admin_view.ctp:92
+msgid "Gender"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:65 View/Cities/admin_view.ctp:79
+#: View/Countries/admin_view.ctp:134 View/Districts/admin_view.ctp:111
+#: View/States/admin_view.ctp:141 View/Talukas/admin_view.ctp:86
+#: View/UserDetails/admin_view.ctp:155 View/UserDetails/view.ctp:155
+#: View/UserTypes/admin_view.ctp:79 View/Users/admin_view.ctp:150
+#: View/Zones/admin_view.ctp:93
+msgid "Referral Name"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:66 View/Cities/admin_view.ctp:80
+#: View/Countries/admin_view.ctp:135 View/Districts/admin_view.ctp:112
+#: View/States/admin_view.ctp:142 View/Talukas/admin_view.ctp:87
+#: View/UserDetails/admin_view.ctp:162 View/UserDetails/view.ctp:162
+#: View/UserTypes/admin_view.ctp:80 View/Users/admin_view.ctp:151
+#: View/Zones/admin_view.ctp:94
+msgid "Photo"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:67 View/Cities/admin_view.ctp:81
+#: View/Countries/admin_view.ctp:136 View/Districts/admin_view.ctp:113
+#: View/States/admin_view.ctp:143 View/Talukas/admin_view.ctp:88
+#: View/UserTypes/admin_view.ctp:81 View/Users/admin_view.ctp:152
+#: View/Zones/admin_view.ctp:45;95
+msgid "Zone Id"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:68 View/Cities/admin_view.ctp:82
+#: View/Countries/admin_view.ctp:137 View/Districts/admin_view.ctp:114
+#: View/States/admin_view.ctp:144 View/Talukas/admin_view.ctp:89
+#: View/UserTypes/admin_view.ctp:82 View/Users/admin_view.ctp:153
+#: View/Zones/admin_view.ctp:96
+msgid "Center Id"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:69 View/Cities/admin_view.ctp:83
+#: View/Countries/admin_view.ctp:138 View/Districts/admin_view.ctp:115
+#: View/Prasangrequests/admin_view.ctp:120
+#: View/ReferenceTypes/admin_view.ctp:69 View/References/admin_view.ctp:184
+#: View/References/view.ctp:89 View/Sections/admin_view.ctp:68
+#: View/States/admin_view.ctp:145 View/Subjects/admin_view.ctp:88;160
+#: View/Talukas/admin_view.ctp:90 View/UserDetails/admin_view.ctp:183
+#: View/UserDetails/view.ctp:183 View/UserTypes/admin_view.ctp:83;161
+#: View/Users/admin_view.ctp:154 View/Withs/admin_view.ctp:86
+#: View/Zones/admin_view.ctp:97
+msgid "Status"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:71 View/Cities/admin_view.ctp:85
+#: View/Countries/admin_view.ctp:140 View/Districts/admin_view.ctp:117
+#: View/Events/admin_view.ctp:93 View/Feedbacks/admin_view.ctp:50
+#: View/Groups/admin_view.ctp:55;81 View/Pages/admin_view.ctp:67
+#: View/Quotes/admin_view.ctp:65 View/ReferenceTypes/admin_view.ctp:71
+#: View/References/admin_view.ctp:198;223 View/References/view.ctp:103;128
+#: View/Sections/admin_view.ctp:70 View/States/admin_view.ctp:147
+#: View/Subjects/admin_view.ctp:43;90;162 View/Talukas/admin_view.ctp:92
+#: View/Traditions/admin_view.ctp:67 View/UserDetails/admin_view.ctp:197
+#: View/UserDetails/view.ctp:197 View/UserTypes/admin_view.ctp:85;163
+#: View/Users/admin_view.ctp:73;99;156 View/Withs/admin_view.ctp:88
+#: View/Zones/admin_view.ctp:99
+msgid "Modified"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:101 View/Cities/admin_view.ctp:115
+#: View/Countries/admin_view.ctp:60;97;170 View/Districts/admin_view.ctp:74;147
+#: View/Groups/admin_view.ctp:95 View/ReferenceTypes/admin_view.ctp:89
+#: View/References/admin_view.ctp:237 View/References/view.ctp:141
+#: View/Sections/admin_view.ctp:111 View/States/admin_view.ctp:67;104;177
+#: View/Subjects/admin_view.ctp:131;180 View/Talukas/admin_view.ctp:122
+#: View/UserTypes/admin_view.ctp:115;204 View/Users/admin_view.ctp:113;186
+#: View/Withs/admin_view.ctp:129 View/Zones/admin_view.ctp:56;129
+msgid "<span class=\"glyphicon glyphicon-search\"></span>"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:102 View/Cities/admin_view.ctp:116
+#: View/Countries/admin_view.ctp:61;98;171 View/Districts/admin_view.ctp:75;148
+#: View/Groups/admin_view.ctp:96 View/ReferenceTypes/admin_view.ctp:90
+#: View/References/admin_view.ctp:246 View/References/view.ctp:142
+#: View/Sections/admin_view.ctp:112 View/States/admin_view.ctp:68;105;178
+#: View/Subjects/admin_view.ctp:132;181 View/Talukas/admin_view.ctp:123
+#: View/UserTypes/admin_view.ctp:116;205 View/Users/admin_view.ctp:114;187
+#: View/Withs/admin_view.ctp:130 View/Zones/admin_view.ctp:57;130
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:103 View/Cities/admin_view.ctp:117
+#: View/Countries/admin_view.ctp:62;99;172 View/Districts/admin_view.ctp:76;149
+#: View/Groups/admin_view.ctp:97 View/ReferenceTypes/admin_view.ctp:91
+#: View/References/admin_view.ctp:255 View/References/view.ctp:143
+#: View/Sections/admin_view.ctp:113 View/States/admin_view.ctp:69;106;179
+#: View/Subjects/admin_view.ctp:133;182 View/Talukas/admin_view.ctp:124
+#: View/UserTypes/admin_view.ctp:117;206 View/Users/admin_view.ctp:115;188
+#: View/Withs/admin_view.ctp:131 View/Zones/admin_view.ctp:58;131
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>"
+msgstr ""
+
+#: View/Centers/admin_view.ctp:112 View/Cities/admin_view.ctp:126
+#: View/Countries/admin_view.ctp:181 View/Districts/admin_view.ctp:158
+#: View/States/admin_view.ctp:188 View/Talukas/admin_view.ctp:133
+#: View/UserDetails/index.ctp:21 View/UserTypes/admin_view.ctp:126
+#: View/Users/admin_view.ctp:197 View/Zones/admin_view.ctp:140
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New User Detail"
+msgstr ""
+
+#: View/Cities/admin_add.ctp:6
+msgid "Add City"
+msgstr ""
+
+#: View/Cities/admin_edit.ctp:6
+msgid "Edit City"
+msgstr ""
+
+#: View/Cities/admin_index.ctp:6
+msgid "Cities"
+msgstr ""
+
+#: View/Cities/admin_index.ctp:17 View/Countries/admin_view.ctp:71
+#: View/Districts/admin_view.ctp:85 View/States/admin_view.ctp:78
+#: View/UserDetails/add.ctp:35 View/UserDetails/edit.ctp:36
+#: View/UserDetails/index.ctp:35
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New City"
+msgstr ""
+
+#: View/Cities/admin_view.ctp:5 View/Talukas/admin_view.ctp:29
+#: View/UserDetails/admin_view.ctp:134 View/UserDetails/view.ctp:134
+msgid "City"
+msgstr ""
+
+#: View/Cities/admin_view.ctp:29 View/Districts/admin_view.ctp:36
+#: View/States/admin_view.ctp:5 View/Talukas/admin_view.ctp:43
+#: View/UserDetails/admin_view.ctp:113 View/UserDetails/view.ctp:113
+msgid "State"
+msgstr ""
+
+#: View/Cities/admin_view.ctp:36 View/Countries/admin_view.ctp:5
+#: View/Districts/admin_view.ctp:29 View/States/admin_view.ctp:29
+#: View/Talukas/admin_view.ctp:50 View/UserDetails/admin_view.ctp:106
+#: View/UserDetails/view.ctp:106
+msgid "Country"
+msgstr ""
+
+#: View/Cities/admin_view.ctp:43 View/Districts/admin_view.ctp:5
+#: View/Talukas/admin_view.ctp:36 View/UserDetails/admin_view.ctp:120
+#: View/UserDetails/view.ctp:120
+msgid "District"
+msgstr ""
+
+#: View/Countries/admin_add.ctp:6
+msgid "Add Country"
+msgstr ""
+
+#: View/Countries/admin_edit.ctp:6
+msgid "Edit Country"
+msgstr ""
+
+#: View/Countries/admin_index.ctp:6
+msgid "Countries"
+msgstr ""
+
+#: View/Countries/admin_index.ctp:14 View/UserDetails/add.ctp:27
+#: View/UserDetails/edit.ctp:28 View/UserDetails/index.ctp:27
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Country"
+msgstr ""
+
+#: View/Countries/admin_view.ctp:38 View/Districts/admin_view.ctp:52
+#: View/States/admin_view.ctp:45
+msgid "Related Cities"
+msgstr ""
+
+#: View/Countries/admin_view.ctp:77 View/States/admin_view.ctp:84
+msgid "Related Districts"
+msgstr ""
+
+#: View/Countries/admin_view.ctp:108 View/Districts/admin_index.ctp:17
+#: View/States/admin_view.ctp:115 View/UserDetails/add.ctp:31
+#: View/UserDetails/edit.ctp:32 View/UserDetails/index.ctp:31
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New District"
+msgstr ""
+
+#: View/Districts/admin_add.ctp:6
+msgid "Add District"
+msgstr ""
+
+#: View/Districts/admin_edit.ctp:6
+msgid "Edit District"
+msgstr ""
+
+#: View/Districts/admin_index.ctp:6
+msgid "Districts"
+msgstr ""
+
+#: View/Elements/authors/form_author.ctp:12
+#: View/Elements/centers/form_center.ctp:16
+#: View/Elements/cities/form_city.ctp:78
+#: View/Elements/countries/form_country.ctp:12
+#: View/Elements/districts/form_district.ctp:34
+#: View/Elements/events/form_event.ctp:113 View/Elements/pages/form_page.ctp:57
+#: View/Elements/prasangrequests/form_request.ctp:128
+#: View/Elements/prasangs/form_moveto.ctp:41
+#: View/Elements/prasangs/form_prasang.ctp:300
+#: View/Elements/quotes/form_quote.ctp:65
+#: View/Elements/references/form_reference.ctp:53
+#: View/Elements/sections/form_section.ctp:13
+#: View/Elements/states/form_state.ctp:19
+#: View/Elements/subjects/form_subject.ctp:67
+#: View/Elements/subjects/form_subject_new.ctp:17
+#: View/Elements/talukas/form_taluka.ctp:56
+#: View/Elements/traditions/form_tradition.ctp:64
+#: View/Elements/userdetails/form_userdetails.ctp:215
+#: View/Elements/users/form_user.ctp:41 View/Elements/withs/form_with.ctp:14
+#: View/Elements/zones/form_zone.ctp:13 View/FeedbackSubjects/admin_add.ctp:18
+#: View/FeedbackSubjects/admin_edit.ctp:21 View/Feedbacks/admin_add.ctp:24
+#: View/Feedbacks/admin_edit.ctp:27 View/Groups/admin_add.ctp:22
+#: View/Groups/admin_edit.ctp:40 View/Prasangrequests/add.ctp:112
+#: View/Prasangrequests/edit.ctp:143 View/ReferenceTypes/admin_add.ctp:36
+#: View/ReferenceTypes/admin_edit.ctp:40 View/References/add.ctp:63
+#: View/References/edit.ctp:67 View/UserDetails/add.ctp:106
+#: View/UserDetails/edit.ctp:110 View/UserTypes/admin_add.ctp:18
+#: View/UserTypes/admin_edit.ctp:21
+msgid "Submit"
+msgstr ""
+
+#: View/Elements/errors/norecords.ctp:1
+msgid "No records found."
+msgstr ""
+
+#: View/Elements/events/form_event.ctp:92 View/Elements/pages/form_page.ctp:44
+#: View/Elements/prasangs/form_prasang.ctp:297
+#: View/Elements/quotes/form_quote.ctp:44
+#: View/Elements/traditions/form_tradition.ctp:35 View/Medias/admin_view.ctp:72
+msgid "Size"
+msgstr ""
+
+#: View/Elements/index/aboutus.ctp:6
+msgid "About"
+msgstr ""
+
+#: View/Elements/index/aboutus.ctp:6 View/Elements/index/menu.ctp:26
+msgid "Anadimukta"
+msgstr ""
+
+#: View/Elements/index/aboutus.ctp:17
+#: View/Elements/index/featured-prasangs.ctp:53
+msgid "Read More"
+msgstr ""
+
+#: View/Elements/index/featured-prasangs.ctp:6 View/Prasangs/sidebar.ctp:12
+msgid "Featured"
+msgstr ""
+
+#: View/Elements/index/featured-prasangs.ctp:6 View/Prasangs/admin_index.ctp:5
+#: View/Prasangs/sidebar.ctp:5
+msgid "Prasangs"
+msgstr ""
+
+#: View/Elements/index/featured-prasangs.ctp:42
+#: View/Elements/prasangs/single-lg.ctp:27 View/Prasangs/view.ctp:45
+msgid "with"
+msgstr ""
+
+#: View/Elements/index/featured-prasangs.ctp:45
+msgid "at"
+msgstr ""
+
+#: View/Elements/index/footer1.ctp:29
+msgid "Useful links"
+msgstr ""
+
+#: View/Elements/index/footer1.ctp:60
+msgid "Contact Us"
+msgstr ""
+
+#: View/Elements/index/menu.ctp:7 View/Index/search.ctp:12
+#: View/Layouts/front.ctp:65 View/Layouts/spatial.ctp:54 View/Pages/view.ctp:12
+#: View/Prasangrequests/submit.ctp:11 View/Prasangs/index.ctp:12
+#: View/Prasangs/view.ctp:12 View/Traditions/index.ctp:12
+#: View/Traditions/view.ctp:5
+msgid "Home"
+msgstr ""
+
+#: View/Elements/index/menu.ctp:17 View/Layouts/front.ctp:75
+#: View/Layouts/spatial.ctp:64
+msgid "About Us"
+msgstr ""
+
+#: View/Elements/index/menu.ctp:30
+msgid "Grand Tadition"
+msgstr ""
+
+#: View/Elements/index/menu.ctp:40
+msgid "HDH Bapji"
+msgstr ""
+
+#: View/Elements/index/menu.ctp:51
+msgid "HH Swamishree"
+msgstr ""
+
+#: View/Elements/index/menu.ctp:64 View/Layouts/front.ctp:86
+#: View/Layouts/spatial.ctp:75 View/Prasangrequests/submit.ctp:13
+msgid "Submit Prasang"
+msgstr ""
+
+#: View/Elements/index/menu.ctp:76 View/Layouts/front.ctp:99
+#: View/Layouts/spatial.ctp:88 View/Users/login_old.ctp:6;19
+msgid "Login"
+msgstr ""
+
+#: View/Elements/index/menu.ctp:90
+msgid "Edit Profile"
+msgstr ""
+
+#: View/Elements/index/menu.ctp:100 View/Layouts/front.ctp:110
+#: View/Layouts/spatial.ctp:99
+msgid "Logout"
+msgstr ""
+
+#: View/Elements/index/quotes.ctp:3
+msgid "Inspirational"
+msgstr ""
+
+#: View/Elements/index/quotes.ctp:3 View/Quotes/admin_index.ctp:6
+msgid "Quotes"
+msgstr ""
+
+#: View/Elements/index/traditions.ctp:6
+msgid "Grand"
+msgstr ""
+
+#: View/Elements/index/traditions.ctp:6 View/Traditions/admin_view.ctp:5
+msgid "Tradition"
+msgstr ""
+
+#: View/Elements/index/traditions.ctp:7
+msgid "Meet our Spiritual Guides"
+msgstr ""
+
+#: View/Elements/index/upcoming-visits.ctp:6
+msgid "Upcoming"
+msgstr ""
+
+#: View/Elements/index/upcoming-visits.ctp:6 View/Events/view.ctp:66
+msgid "Visits"
+msgstr ""
+
+#: View/Elements/prasangrequests/form_request.ctp:10
+msgid "Add Title of Prasang"
+msgstr "પ્રસંગ નો વિષય લખવો"
+
+#: View/Elements/prasangs/form_prasang.ctp:48
+msgid "Date of Prasang happened."
+msgstr ""
+
+#: View/Elements/prasangs/form_prasang.ctp:249
+msgid "User Type who can view this Prasang."
+msgstr ""
+
+#: View/Elements/prasangs/form_prasang_search.ctp:25
+#: View/Elements/subjects/form_subject_search.ctp:19
+#: View/Elements/users/form_user_search.ctp:29
+msgid "Search"
+msgstr ""
+
+#: View/Elements/prasangs/single-lg.ctp:29
+#: View/Elements/prasangs/single-sm.ctp:25 View/Feedbacks/admin_view.ctp:29
+#: View/Prasangrequests/admin_print.ctp:84 View/Prasangs/admin_print.ctp:92
+#: View/Prasangs/view.ctp:47 View/Subjects/admin_view.ctp:5
+msgid "Subject"
+msgstr "વિષય"
+
+#: View/Elements/userdetails/form_userdetails.ctp:21
+#: View/Elements/users/form_user.ctp:30
+msgid "Enter password to change it, otherwise keep it empty."
+msgstr ""
+
+#: View/Elements/users/form_register.ctp:197
+msgid "Register Now"
+msgstr ""
+
+#: View/Events/admin_add.ctp:6
+msgid "Add Event"
+msgstr ""
+
+#: View/Events/admin_edit.ctp:6
+msgid "Edit Event"
+msgstr ""
+
+#: View/Events/admin_index.ctp:6
+msgid "Events"
+msgstr ""
+
+#: View/Events/admin_index.ctp:14
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Event"
+msgstr ""
+
+#: View/Events/admin_view.ctp:5 View/Prasangrequests/admin_print.ctp:62
+#: View/Prasangrequests/admin_view.ctp:57 View/Prasangs/admin_print.ctp:72
+#: View/Sections/admin_view.ctp:51 View/Subjects/admin_view.ctp:71
+#: View/UserTypes/admin_view.ctp:144 View/Withs/admin_view.ctp:69
+msgid "Event"
+msgstr ""
+
+#: View/Events/admin_view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Event"
+msgstr ""
+
+#: View/Events/admin_view.ctp:22
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Event"
+msgstr ""
+
+#: View/Events/admin_view.ctp:28
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Events"
+msgstr ""
+
+#: View/Events/admin_view.ctp:31
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Event"
+msgstr ""
+
+#: View/Events/admin_view.ctp:51 View/FeedbackSubjects/admin_view.ctp:22
+#: View/Pages/admin_view.ctp:39 View/Prasangrequests/admin_print.ctp:87
+#: View/Prasangrequests/admin_view.ctp:36 View/Prasangs/admin_print.ctp:96
+#: View/Prasangs/admin_view.ctp:11 View/ReferenceTypes/admin_view.ctp:63
+#: View/References/admin_view.ctp:124;220 View/References/view.ctp:47;125
+#: View/Sections/admin_view.ctp:48 View/Subjects/admin_view.ctp:22;68;154
+#: View/Traditions/admin_view.ctp:39 View/UserTypes/admin_view.ctp:141
+#: View/Withs/admin_view.ctp:66
+msgid "Title"
+msgstr ""
+
+#: View/Events/admin_view.ctp:58 View/Events/view.ctp:24
+#: View/Prasangrequests/admin_print.ctp:58
+#: View/Prasangrequests/admin_view.ctp:50 View/Prasangs/admin_print.ctp:68
+#: View/Prasangs/admin_view.ctp:25 View/Sections/admin_view.ctp:50
+#: View/Subjects/admin_view.ctp:70 View/UserTypes/admin_view.ctp:143
+#: View/Withs/admin_view.ctp:68
+msgid "Place"
+msgstr ""
+
+#: View/Events/admin_view.ctp:65
+msgid "Startdatetime"
+msgstr ""
+
+#: View/Events/admin_view.ctp:72
+msgid "Enddatetime"
+msgstr ""
+
+#: View/Events/admin_view.ctp:79
+msgid "Details"
+msgstr ""
+
+#: View/Events/admin_view.ctp:86 View/Traditions/admin_view.ctp:46
+msgid "Image"
+msgstr ""
+
+#: View/Events/admin_view.ctp:107 View/Quotes/admin_view.ctp:79
+msgid "Is Enabled"
+msgstr ""
+
+#: View/Events/admin_view.ctp:114 View/Pages/admin_view.ctp:53
+#: View/Traditions/admin_view.ctp:60
+msgid "Is Visible"
+msgstr ""
+
+#: View/Events/view.ctp:19
+msgid "More"
+msgstr ""
+
+#: View/Events/view.ctp:19
+msgid "Info"
+msgstr ""
+
+#: View/Events/view.ctp:29
+msgid "Starts"
+msgstr ""
+
+#: View/Events/view.ctp:35
+msgid "Ends"
+msgstr ""
+
+#: View/Events/view.ctp:41
+msgid "Share"
+msgstr ""
+
+#: View/Events/view.ctp:66
+msgid "Other"
+msgstr ""
+
+#: View/FeedbackSubjects/admin_add.ctp:6
+msgid "Add Feedback Subject"
+msgstr ""
+
+#: View/FeedbackSubjects/admin_edit.ctp:6
+msgid "Edit Feedback Subject"
+msgstr ""
+
+#: View/FeedbackSubjects/admin_index.ctp:6
+msgid "Feedback Subjects"
+msgstr ""
+
+#: View/FeedbackSubjects/admin_index.ctp:15
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Feedback "
+"Subject"
+msgstr ""
+
+#: View/FeedbackSubjects/admin_view.ctp:5
+msgid "Feedback Subject"
+msgstr ""
+
+#: View/Feedbacks/admin_add.ctp:6
+msgid "Add Feedback"
+msgstr ""
+
+#: View/Feedbacks/admin_edit.ctp:6
+msgid "Admin Edit Feedback"
+msgstr ""
+
+#: View/Feedbacks/admin_index.ctp:6 View/Feedbacks/admin_view.ctp:5
+msgid "Feedback"
+msgstr ""
+
+#: View/Feedbacks/admin_view.ctp:22 View/UserDetails/admin_add.ctp:6
+#: View/UserDetails/admin_view.ctp:57 View/UserDetails/view.ctp:57
+#: View/Users/admin_view.ctp:5
+msgid "User"
+msgstr ""
+
+#: View/Feedbacks/admin_view.ctp:36 View/Pages/admin_view.ctp:46
+#: View/Prasangrequests/admin_view.ctp:64 View/ReferenceTypes/admin_view.ctp:66
+#: View/References/admin_view.ctp:151 View/References/view.ctp:68
+#: View/Subjects/admin_view.ctp:157 View/Traditions/admin_view.ctp:53
+#: View/Users/admin_view.ctp:97
+msgid "Content"
+msgstr ""
+
+#: View/Groups/admin_add.ctp:6
+msgid "Add Group"
+msgstr ""
+
+#: View/Groups/admin_edit.ctp:6
+msgid "Admin Edit Group"
+msgstr ""
+
+#: View/Groups/admin_edit.ctp:21 View/Prasangrequests/edit.ctp:22
+#: View/ReferenceTypes/admin_edit.ctp:21 View/References/admin_edit.ctp:17
+#: View/References/edit.ctp:21 View/UserDetails/edit.ctp:21
+msgid "<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete"
+msgstr ""
+
+#: View/Groups/admin_edit.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Groups"
+msgstr ""
+
+#: View/Groups/admin_edit.ctp:23 View/Prasangs/admin_add2.ctp:73
+#: View/References/add.ctp:26 View/References/admin_add.ctp:45
+#: View/References/admin_edit.ctp:66 View/References/admin_index.ctp:61
+#: View/References/edit.ctp:27 View/References/index.ctp:26
+#: View/UserDetails/add.ctp:22 View/UserDetails/edit.ctp:23
+#: View/UserDetails/index.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Users"
+msgstr ""
+
+#: View/Groups/admin_edit.ctp:24 View/Groups/admin_view.ctp:106
+#: View/UserDetails/add.ctp:23 View/UserDetails/edit.ctp:24
+#: View/UserDetails/index.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New User"
+msgstr ""
+
+#: View/Groups/admin_index.ctp:6
+msgid "Groups"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:5 View/Users/admin_view.ctp:59
+msgid "Group"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Group"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:19
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Group"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:20 View/Users/admin_view.ctp:22
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Groups"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:21 View/Users/admin_view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Group"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:22 View/References/admin_view.ctp:83
+#: View/References/view.ctp:26 View/UserDetails/admin_view.ctp:22
+#: View/UserDetails/view.ctp:22 View/Users/admin_view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Users"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:23 View/UserDetails/admin_view.ctp:23
+#: View/UserDetails/view.ctp:23 View/Users/admin_view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New User"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:71
+msgid "Related Users"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:77 View/UserDetails/admin_index.ctp:25
+#: View/Users/admin_view.ctp:45
+msgid "Username"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:78 View/Users/admin_view.ctp:52
+msgid "Password"
+msgstr ""
+
+#: View/Groups/admin_view.ctp:79
+msgid "Group Id"
+msgstr ""
+
+#: View/Index/search.ctp:16 View/Prasangs/index.ctp:14
+#: View/Prasangs/view.ctp:16
+msgid "All Prasangs"
+msgstr ""
+
+#: View/Layouts/front.ctp:56 View/Prasangrequests/admin_print.ctp:21
+#: View/Prasangs/admin_print.ctp:26
+msgid "Prasang Collection"
+msgstr ""
+
+#: View/Layouts/front.ctp:142 View/Layouts/spatial.ctp:128
+msgid "Swaminarayan Mandir Vasna Sanstha"
+msgstr ""
+
+#: View/Medias/admin_add.ctp:6 View/Prasangs/admin_edit.ctp:14
+msgid "Add Media"
+msgstr ""
+
+#: View/Medias/admin_grid.ctp:6 View/Medias/admin_view.ctp:5
+msgid "Media"
+msgstr ""
+
+#: View/Medias/admin_grid.ctp:17
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Media"
+msgstr ""
+
+#: View/Medias/admin_index.ctp:5 View/Prasangs/admin_edit.ctp:5
+msgid "Edit Prasang"
+msgstr ""
+
+#: View/Medias/admin_index.ctp:13
+msgid "Edit"
+msgstr ""
+
+#: View/Medias/admin_view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Media"
+msgstr ""
+
+#: View/Medias/admin_view.ctp:22
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Media"
+msgstr ""
+
+#: View/Medias/admin_view.ctp:28
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Media"
+msgstr ""
+
+#: View/Medias/admin_view.ctp:31
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Media"
+msgstr ""
+
+#: View/Medias/admin_view.ctp:58
+msgid "Originalname"
+msgstr ""
+
+#: View/Medias/admin_view.ctp:65 View/ReferenceTypes/admin_view.ctp:41
+#: View/UserTypes/admin_view.ctp:43
+msgid "Type"
+msgstr ""
+
+#: View/Medias/admin_view.ctp:79
+msgid "Extension"
+msgstr ""
+
+#: View/Pages/admin_add.ctp:6
+msgid "Add Page"
+msgstr ""
+
+#: View/Pages/admin_edit.ctp:6
+msgid "Edit Page"
+msgstr ""
+
+#: View/Pages/admin_index.ctp:6
+msgid "Pages"
+msgstr ""
+
+#: View/Pages/admin_index.ctp:15
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Page"
+msgstr ""
+
+#: View/Pages/admin_view.ctp:5
+msgid "Page"
+msgstr ""
+
+#: View/Pages/admin_view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Page"
+msgstr ""
+
+#: View/Pages/admin_view.ctp:19
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Page"
+msgstr ""
+
+#: View/Pages/admin_view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Pages"
+msgstr ""
+
+#: View/Pages/admin_view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Page"
+msgstr ""
+
+#: View/Prasangrequests/add.ctp:6
+msgid "Add Prasangrequest"
+msgstr ""
+
+#: View/Prasangrequests/add.ctp:21 View/Prasangrequests/edit.ctp:29
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List "
+"Prasangrequests"
+msgstr ""
+
+#: View/Prasangrequests/admin_index.ctp:6 View/Prasangs/admin_uploaded.ctp:5
+#: View/Prasangs/admin_writing.ctp:5
+msgid "Prasang Requests"
+msgstr ""
+
+#: View/Prasangrequests/admin_index.ctp:16
+msgid ""
+"<span class=\"glyphicon glyphicon-check\"></span>&nbsp;&nbsp;Accept to Write"
+msgstr ""
+
+#: View/Prasangrequests/admin_index.ctp:86
+msgid "Are you sure you want to discard # %s - %s?"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:26 View/Prasangs/admin_print.ctp:36
+msgid "Writing Format"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:28 View/Prasangs/admin_print.ctp:29;129
+msgid "Prasang No"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:32
+#: View/Prasangrequests/admin_view.ctp:78 View/Prasangs/admin_print.ctp:42
+#: View/Sections/admin_view.ctp:57 View/Subjects/admin_view.ctp:77
+#: View/UserTypes/admin_view.ctp:150 View/Withs/admin_view.ctp:75
+msgid "Donor Name"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:36 View/Prasangs/admin_print.ctp:46
+msgid "Phone No"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:54
+#: View/Prasangrequests/admin_view.ctp:43 View/Prasangs/admin_print.ctp:64
+#: View/Sections/admin_view.ctp:49 View/Subjects/admin_view.ctp:69
+#: View/UserTypes/admin_view.ctp:142 View/Withs/admin_view.ctp:67
+msgid "Date"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:68
+#: View/Prasangrequests/admin_view.ctp:15 View/Prasangs/admin_print.ctp:78
+#: View/Sections/admin_view.ctp:5
+msgid "Section"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:72
+#: View/Prasangrequests/admin_view.ctp:22 View/Prasangs/admin_print.ctp:82
+#: View/Withs/admin_view.ctp:5
+msgid "With"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:76
+#: View/Prasangrequests/admin_view.ctp:29 View/Prasangs/admin_print.ctp:86
+#: View/Prasangs/admin_view.ctp:18 View/ReferenceTypes/admin_view.ctp:64
+#: View/References/admin_view.ctp:131 View/References/view.ctp:54
+#: View/Sections/admin_view.ctp:47 View/Subjects/admin_view.ctp:67;155
+#: View/UserTypes/admin_view.ctp:140 View/Withs/admin_view.ctp:65
+msgid "Grade"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:93 View/Prasangs/admin_print.ctp:102
+msgid "Special Note"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:96 View/Prasangs/admin_print.ctp:106
+msgid "Attachment List"
+msgstr ""
+
+#: View/Prasangrequests/admin_print.ctp:101 View/Prasangs/admin_print.ctp:116
+msgid "Writing Area"
+msgstr ""
+
+#: View/Prasangrequests/admin_view.ctp:5
+msgid "Request Details"
+msgstr ""
+
+#: View/Prasangrequests/admin_view.ctp:71 View/Sections/admin_view.ctp:56
+#: View/Subjects/admin_view.ctp:76 View/UserTypes/admin_view.ctp:149
+#: View/Withs/admin_view.ctp:74
+msgid "Is Personal"
+msgstr ""
+
+#: View/Prasangrequests/admin_view.ctp:85 View/Sections/admin_view.ctp:58
+#: View/Subjects/admin_view.ctp:78 View/UserTypes/admin_view.ctp:151
+#: View/Withs/admin_view.ctp:76
+msgid "Donor Phone"
+msgstr ""
+
+#: View/Prasangrequests/admin_view.ctp:92 View/Sections/admin_view.ctp:59
+#: View/Subjects/admin_view.ctp:79 View/UserTypes/admin_view.ctp:152
+#: View/Withs/admin_view.ctp:77
+msgid "Donor Email"
+msgstr ""
+
+#: View/Prasangrequests/admin_view.ctp:99 View/Sections/admin_view.ctp:60
+#: View/Subjects/admin_view.ctp:80 View/UserTypes/admin_view.ctp:153
+#: View/Withs/admin_view.ctp:78
+msgid "Donor Zone Id"
+msgstr ""
+
+#: View/Prasangrequests/admin_view.ctp:106 View/Sections/admin_view.ctp:61
+#: View/Subjects/admin_view.ctp:81 View/UserTypes/admin_view.ctp:154
+#: View/Withs/admin_view.ctp:79
+msgid "Donor Center Id"
+msgstr ""
+
+#: View/Prasangrequests/admin_view.ctp:113
+msgid "Submitted By User"
+msgstr ""
+
+#: View/Prasangrequests/admin_view.ctp:127
+msgid "Submitted On"
+msgstr ""
+
+#: View/Prasangrequests/edit.ctp:6
+msgid "Edit Prasangrequest"
+msgstr ""
+
+#: View/Prasangrequests/submit.ctp:4
+msgid "Submit your Prasang"
+msgstr ""
+
+#: View/Prasangrequests/submit.ctp:5
+msgid ""
+"Share your devine experience with us. We will display it on this website if "
+"approved"
+msgstr ""
+
+#: View/Prasangs/admin_add.ctp:6
+msgid "Add Prasang"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:6
+msgid "Admin Add Prasang"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:19
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Prasangs"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:23
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Sections"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:28 View/Sections/admin_index.ctp:17
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Section"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:33
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Withs"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:38 View/Withs/admin_index.ctp:18
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New With"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:43 View/UserDetails/add.ctp:36
+#: View/UserDetails/edit.ctp:37 View/UserDetails/index.ctp:36
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Zones"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:48
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Donor Zone"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:53 View/UserDetails/add.ctp:38
+#: View/UserDetails/edit.ctp:39 View/UserDetails/index.ctp:38
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Centers"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:58
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Donor Center"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:63
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Authors"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:78 View/References/add.ctp:25
+#: View/References/admin_edit.ctp:58 View/References/admin_index.ctp:53
+#: View/References/edit.ctp:26 View/References/index.ctp:25
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Dtp User"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:83 View/References/add.ctp:28
+#: View/References/admin_add.ctp:53 View/References/admin_edit.ctp:82
+#: View/References/admin_index.ctp:77 View/References/edit.ctp:29
+#: View/References/index.ctp:28
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Subjects"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:88 View/References/add.ctp:29
+#: View/References/admin_add.ctp:61 View/References/admin_edit.ctp:90
+#: View/References/admin_index.ctp:85 View/References/admin_view.ctp:274
+#: View/References/edit.ctp:30 View/References/index.ctp:29
+#: View/References/view.ctp:152
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Subject"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:93 View/UserDetails/add.ctp:24
+#: View/UserDetails/edit.ctp:25 View/UserDetails/index.ctp:24
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List User Types"
+msgstr ""
+
+#: View/Prasangs/admin_add2.ctp:98 View/UserDetails/add.ctp:25
+#: View/UserDetails/edit.ctp:26 View/UserDetails/index.ctp:25
+#: View/UserTypes/admin_index.ctp:17
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New User Type"
+msgstr ""
+
+#: View/Prasangs/admin_index.ctp:17 View/Prasangs/admin_uploaded.ctp:23
+#: View/Prasangs/admin_writing.ctp:17 View/Sections/admin_view.ctp:122
+#: View/Subjects/admin_view.ctp:142 View/UserTypes/admin_view.ctp:215
+#: View/Withs/admin_view.ctp:140
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Prasang"
+msgstr ""
+
+#: View/Prasangs/admin_print.ctp:134
+msgid "User Content"
+msgstr ""
+
+#: View/Prasangs/admin_uploaded.ctp:30 View/Prasangs/admin_writing.ctp:24
+msgid "<span class=\"glyphicon glyphicon-print\"></span>&nbsp;&nbsp;Print"
+msgstr ""
+
+#: View/Prasangs/admin_view.ctp:5
+msgid "New Prasang"
+msgstr ""
+
+#: View/Prasangs/sidebar.ctp:5
+msgid "Recent"
+msgstr ""
+
+#: View/Prasangs/sidebar.ctp:12 View/Subjects/admin_index.ctp:6
+msgid "Subjects"
+msgstr ""
+
+#: View/Quotes/admin_add.ctp:6
+msgid "Add Quote"
+msgstr ""
+
+#: View/Quotes/admin_edit.ctp:6
+msgid "Edit Quote"
+msgstr ""
+
+#: View/Quotes/admin_index.ctp:17
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Quote"
+msgstr ""
+
+#: View/Quotes/admin_view.ctp:5;51
+msgid "Quote"
+msgstr ""
+
+#: View/Quotes/admin_view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Quote"
+msgstr ""
+
+#: View/Quotes/admin_view.ctp:22
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete Quote"
+msgstr ""
+
+#: View/Quotes/admin_view.ctp:28
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Quotes"
+msgstr ""
+
+#: View/Quotes/admin_view.ctp:31
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Quote"
+msgstr ""
+
+#: View/Quotes/admin_view.ctp:58
+msgid "By"
+msgstr ""
+
+#: View/ReferenceTypes/admin_add.ctp:6
+msgid "Admin Add Reference Type"
+msgstr ""
+
+#: View/ReferenceTypes/admin_add.ctp:21 View/ReferenceTypes/admin_edit.ctp:22
+#: View/References/add.ctp:22 View/References/admin_add.ctp:29
+#: View/References/admin_edit.ctp:34 View/References/admin_index.ctp:29
+#: View/References/edit.ctp:23 View/References/index.ctp:22
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Reference "
+"Types"
+msgstr ""
+
+#: View/ReferenceTypes/admin_add.ctp:22 View/ReferenceTypes/admin_edit.ctp:23
+#: View/ReferenceTypes/admin_index.ctp:22 View/References/add.ctp:21
+#: View/References/admin_add.ctp:22 View/References/admin_edit.ctp:27
+#: View/References/edit.ctp:22
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List References"
+msgstr ""
+
+#: View/ReferenceTypes/admin_add.ctp:23 View/ReferenceTypes/admin_edit.ctp:24
+#: View/ReferenceTypes/admin_index.ctp:23
+#: View/ReferenceTypes/admin_view.ctp:100 View/References/admin_index.ctp:22
+#: View/References/index.ctp:21 View/Subjects/admin_view.ctp:191
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Reference"
+msgstr ""
+
+#: View/ReferenceTypes/admin_edit.ctp:6
+msgid "Admin Edit Reference Type"
+msgstr ""
+
+#: View/ReferenceTypes/admin_index.ctp:6
+msgid "Reference Types"
+msgstr ""
+
+#: View/ReferenceTypes/admin_index.ctp:21 View/References/add.ctp:23
+#: View/References/admin_add.ctp:37 View/References/admin_edit.ctp:42
+#: View/References/admin_index.ctp:37 View/References/edit.ctp:24
+#: View/References/index.ctp:23
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Reference "
+"Type"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:5 View/References/admin_view.ctp:138
+#: View/References/view.ctp:61
+msgid "Reference Type"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:18
+msgid ""
+"<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Reference "
+"Type"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:19
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete "
+"Reference Type"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:20 View/References/admin_view.ctp:51
+#: View/References/view.ctp:22
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Reference "
+"Types"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:21 View/References/admin_view.ctp:59
+#: View/References/view.ctp:23
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Reference Type"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:22 View/References/admin_view.ctp:37
+#: View/References/view.ctp:20
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List References"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:23 View/References/admin_view.ctp:44
+#: View/References/view.ctp:21
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Reference"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:57 View/Subjects/admin_view.ctp:148
+msgid "Related References"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:65 View/Subjects/admin_view.ctp:156
+msgid "Reference Type Id"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:67 View/Sections/admin_view.ctp:72
+#: View/Subjects/admin_view.ctp:92;158 View/UserTypes/admin_view.ctp:165
+#: View/Withs/admin_view.ctp:90
+msgid "Dtp User Id"
+msgstr ""
+
+#: View/ReferenceTypes/admin_view.ctp:68 View/References/admin_view.ctp:171
+#: View/References/view.ctp:82 View/Sections/admin_view.ctp:73
+#: View/Subjects/admin_view.ctp:93;159 View/UserTypes/admin_view.ctp:166
+#: View/Withs/admin_view.ctp:91
+msgid "Published By"
+msgstr ""
+
+#: View/References/add.ctp:6
+msgid "Add Reference"
+msgstr ""
+
+#: View/References/add.ctp:24 View/References/admin_edit.ctp:50
+#: View/References/admin_index.ctp:45 View/References/edit.ctp:25
+#: View/References/index.ctp:24
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Dtp Users"
+msgstr ""
+
+#: View/References/add.ctp:27 View/References/admin_edit.ctp:74
+#: View/References/admin_index.ctp:69 View/References/edit.ctp:28
+#: View/References/index.ctp:27
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Published By"
+msgstr ""
+
+#: View/References/admin_add.ctp:6
+msgid "Admin Add Reference"
+msgstr ""
+
+#: View/References/admin_edit.ctp:5
+msgid "Admin Edit Reference"
+msgstr ""
+
+#: View/References/admin_index.ctp:6 View/References/index.ctp:6
+msgid "References"
+msgstr ""
+
+#: View/References/admin_view.ctp:5 View/References/view.ctp:5
+msgid "Reference"
+msgstr ""
+
+#: View/References/admin_view.ctp:19 View/References/view.ctp:18
+msgid ""
+"<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Reference"
+msgstr ""
+
+#: View/References/admin_view.ctp:27 View/References/view.ctp:19
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete "
+"Reference"
+msgstr ""
+
+#: View/References/admin_view.ctp:67 View/References/view.ctp:24
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Dtp Users"
+msgstr ""
+
+#: View/References/admin_view.ctp:75 View/References/view.ctp:25
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Dtp User"
+msgstr ""
+
+#: View/References/admin_view.ctp:91 View/References/view.ctp:27
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Published By"
+msgstr ""
+
+#: View/References/admin_view.ctp:99 View/References/view.ctp:28
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Subjects"
+msgstr ""
+
+#: View/References/admin_view.ctp:107 View/References/view.ctp:29
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Subject"
+msgstr ""
+
+#: View/References/admin_view.ctp:158
+msgid "Created By User"
+msgstr ""
+
+#: View/References/admin_view.ctp:214 View/References/view.ctp:119
+msgid "Related Subjects"
+msgstr ""
+
+#: View/References/admin_view.ctp:221 View/References/view.ctp:126
+msgid "Parent Id"
+msgstr ""
+
+#: View/References/edit.ctp:6
+msgid "Edit Reference"
+msgstr ""
+
+#: View/References/view.ctp:75
+msgid "Dtp User"
+msgstr ""
+
+#: View/Sections/admin_add.ctp:6
+msgid "Add Section"
+msgstr ""
+
+#: View/Sections/admin_edit.ctp:6
+msgid "Edit Section"
+msgstr ""
+
+#: View/Sections/admin_index.ctp:6
+msgid "Sections"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:39 View/Subjects/admin_view.ctp:59
+#: View/UserTypes/admin_view.ctp:132 View/Withs/admin_view.ctp:57
+msgid "Related Prasangs"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:45 View/Subjects/admin_view.ctp:65
+#: View/UserTypes/admin_view.ctp:138 View/Withs/admin_view.ctp:63
+msgid "Section Id"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:46 View/Subjects/admin_view.ctp:66
+#: View/UserTypes/admin_view.ctp:139 View/Withs/admin_view.ctp:64
+msgid "With Id"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:52 View/Subjects/admin_view.ctp:72
+#: View/UserTypes/admin_view.ctp:145 View/Withs/admin_view.ctp:70
+msgid "Content English"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:53 View/Subjects/admin_view.ctp:73
+#: View/UserTypes/admin_view.ctp:146 View/Withs/admin_view.ctp:71
+msgid "Content Hindi"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:54 View/Subjects/admin_view.ctp:74
+#: View/UserTypes/admin_view.ctp:147 View/Withs/admin_view.ctp:72
+msgid "Content Gujarati"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:55 View/Subjects/admin_view.ctp:75
+#: View/UserTypes/admin_view.ctp:148 View/Withs/admin_view.ctp:73
+msgid "Notes"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:62 View/Subjects/admin_view.ctp:82
+#: View/UserTypes/admin_view.ctp:155 View/Withs/admin_view.ctp:80
+msgid "Author Id"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:63 View/Subjects/admin_view.ctp:83
+#: View/UserTypes/admin_view.ctp:156 View/Withs/admin_view.ctp:81
+msgid "Is Rewrite"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:64 View/Subjects/admin_view.ctp:84
+#: View/UserTypes/admin_view.ctp:157 View/Withs/admin_view.ctp:82
+msgid "Rewrite Date"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:65 View/Subjects/admin_view.ctp:85
+#: View/UserTypes/admin_view.ctp:158 View/Withs/admin_view.ctp:83
+msgid "Has Proof"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:66 View/Subjects/admin_view.ctp:86
+#: View/UserTypes/admin_view.ctp:159 View/Withs/admin_view.ctp:84
+msgid "Proof Date"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:67 View/Subjects/admin_view.ctp:87
+#: View/UserTypes/admin_view.ctp:160 View/Withs/admin_view.ctp:85
+msgid "X Publish Date"
+msgstr ""
+
+#: View/Sections/admin_view.ctp:71 View/Subjects/admin_view.ctp:91
+#: View/UserTypes/admin_view.ctp:164 View/Withs/admin_view.ctp:89
+msgid "Published"
+msgstr ""
+
+#: View/States/admin_add.ctp:6
+msgid "Add State"
+msgstr ""
+
+#: View/States/admin_edit.ctp:6
+msgid "Edit State"
+msgstr ""
+
+#: View/States/admin_index.ctp:6
+msgid "States"
+msgstr ""
+
+#: View/States/admin_index.ctp:17 View/UserDetails/add.ctp:29
+#: View/UserDetails/edit.ctp:30 View/UserDetails/index.ctp:29
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New State"
+msgstr ""
+
+#: View/Subjects/admin_add.ctp:6
+msgid "Admin Add Subject"
+msgstr ""
+
+#: View/Subjects/admin_edit.ctp:6
+msgid "Edit Subject"
+msgstr ""
+
+#: View/Subjects/admin_index.ctp:16
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;Add Main Subject"
+msgstr ""
+
+#: View/Subjects/admin_view.ctp:29
+msgid "Self"
+msgstr ""
+
+#: View/Talukas/admin_add.ctp:6
+msgid "Add Taluka"
+msgstr ""
+
+#: View/Talukas/admin_edit.ctp:6
+msgid "Edit Taluka"
+msgstr ""
+
+#: View/Talukas/admin_index.ctp:6
+msgid "Talukas"
+msgstr ""
+
+#: View/Talukas/admin_index.ctp:15 View/UserDetails/add.ctp:33
+#: View/UserDetails/edit.ctp:34 View/UserDetails/index.ctp:33
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Taluka"
+msgstr ""
+
+#: View/Talukas/admin_view.ctp:5 View/UserDetails/admin_view.ctp:127
+#: View/UserDetails/view.ctp:127
+msgid "Taluka"
+msgstr ""
+
+#: View/Traditions/admin_add.ctp:6
+msgid "Add Tradition"
+msgstr ""
+
+#: View/Traditions/admin_edit.ctp:5
+msgid "Edit Tradition"
+msgstr ""
+
+#: View/Traditions/admin_index.ctp:6
+msgid "Traditions"
+msgstr ""
+
+#: View/Traditions/admin_index.ctp:14
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Grand "
+"Tradition"
+msgstr ""
+
+#: View/Traditions/admin_view.ctp:18
+msgid ""
+"<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit Tradition"
+msgstr ""
+
+#: View/Traditions/admin_view.ctp:19
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete "
+"Tradition"
+msgstr ""
+
+#: View/Traditions/admin_view.ctp:20
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Traditions"
+msgstr ""
+
+#: View/Traditions/admin_view.ctp:21
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Tradition"
+msgstr ""
+
+#: View/Traditions/index.ctp:5;6;14 View/Traditions/view.ctp:9
+msgid "Grand Tradition"
+msgstr ""
+
+#: View/UserDetails/add.ctp:6
+msgid "Add User Detail"
+msgstr ""
+
+#: View/UserDetails/add.ctp:21 View/UserDetails/edit.ctp:22
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List User Details"
+msgstr ""
+
+#: View/UserDetails/add.ctp:26 View/UserDetails/edit.ctp:27
+#: View/UserDetails/index.ctp:26
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Countries"
+msgstr ""
+
+#: View/UserDetails/add.ctp:28 View/UserDetails/edit.ctp:29
+#: View/UserDetails/index.ctp:28
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List States"
+msgstr ""
+
+#: View/UserDetails/add.ctp:30 View/UserDetails/edit.ctp:31
+#: View/UserDetails/index.ctp:30
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Districts"
+msgstr ""
+
+#: View/UserDetails/add.ctp:32 View/UserDetails/edit.ctp:33
+#: View/UserDetails/index.ctp:32
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Talukas"
+msgstr ""
+
+#: View/UserDetails/add.ctp:34 View/UserDetails/edit.ctp:35
+#: View/UserDetails/index.ctp:34
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp;&nbsp;List Cities"
+msgstr ""
+
+#: View/UserDetails/add.ctp:37 View/UserDetails/edit.ctp:38
+#: View/UserDetails/index.ctp:37 View/Zones/admin_index.ctp:18
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Zone"
+msgstr ""
+
+#: View/UserDetails/admin_edit.ctp:6 View/Users/admin_edit.ctp:5
+msgid "Edit User"
+msgstr ""
+
+#: View/UserDetails/admin_index.ctp:6
+msgid "Front-end Users"
+msgstr ""
+
+#: View/UserDetails/admin_index.ctp:17
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Front User"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:5 View/UserDetails/view.ctp:5
+msgid "User Detail"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:18 View/UserDetails/view.ctp:18
+msgid ""
+"<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit User Detail"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:19 View/UserDetails/view.ctp:19
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete User "
+"Detail"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:20 View/UserDetails/view.ctp:20
+#: View/UserTypes/admin_view.ctp:22 View/Users/admin_view.ctp:26
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List User Details"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:21 View/UserDetails/view.ctp:21
+#: View/UserTypes/admin_view.ctp:23 View/Users/admin_view.ctp:27
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New User Detail"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:24 View/UserDetails/view.ctp:24
+#: View/UserTypes/admin_view.ctp:20
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List User Types"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:25 View/UserDetails/view.ctp:25
+#: View/UserTypes/admin_view.ctp:21
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New User Type"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:26 View/UserDetails/view.ctp:26
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Countries"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:27 View/UserDetails/view.ctp:27
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Country"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:28 View/UserDetails/view.ctp:28
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List States"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:29 View/UserDetails/view.ctp:29
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New State"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:30 View/UserDetails/view.ctp:30
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Districts"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:31 View/UserDetails/view.ctp:31
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New District"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:32 View/UserDetails/view.ctp:32
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Talukas"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:33 View/UserDetails/view.ctp:33
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Taluka"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:34 View/UserDetails/view.ctp:34
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Cities"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:35 View/UserDetails/view.ctp:35
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New City"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:36 View/UserDetails/view.ctp:36
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Zones"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:37 View/UserDetails/view.ctp:37
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Zone"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:38 View/UserDetails/view.ctp:38
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Centers"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:39 View/UserDetails/view.ctp:39
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Center"
+msgstr ""
+
+#: View/UserDetails/admin_view.ctp:64 View/UserDetails/view.ctp:64
+#: View/UserTypes/admin_view.ctp:5
+msgid "User Type"
+msgstr ""
+
+#: View/UserDetails/edit.ctp:6
+msgid "Edit User Detail"
+msgstr ""
+
+#: View/UserDetails/index.ctp:6
+msgid "User Details"
+msgstr ""
+
+#: View/UserTypes/admin_add.ctp:6
+msgid "Add User Type"
+msgstr ""
+
+#: View/UserTypes/admin_edit.ctp:6
+msgid "Edit User Type"
+msgstr ""
+
+#: View/UserTypes/admin_index.ctp:6
+msgid "User Types"
+msgstr ""
+
+#: View/UserTypes/admin_view.ctp:18
+msgid ""
+"<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit User Type"
+msgstr ""
+
+#: View/UserTypes/admin_view.ctp:19
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete User "
+"Type"
+msgstr ""
+
+#: View/UserTypes/admin_view.ctp:24 View/Withs/admin_view.ctp:22
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Prasangs"
+msgstr ""
+
+#: View/UserTypes/admin_view.ctp:25 View/Withs/admin_view.ctp:23
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Prasang"
+msgstr ""
+
+#: View/Users/admin_add.ctp:5
+msgid "Add User"
+msgstr ""
+
+#: View/Users/admin_index.ctp:6
+msgid "Users"
+msgstr ""
+
+#: View/Users/admin_index.ctp:18
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Admin User"
+msgstr ""
+
+#: View/Users/admin_view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit User"
+msgstr ""
+
+#: View/Users/admin_view.ctp:19
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete User"
+msgstr ""
+
+#: View/Users/admin_view.ctp:24
+msgid ""
+"<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Feedback"
+msgstr ""
+
+#: View/Users/admin_view.ctp:25
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New Feedback"
+msgstr ""
+
+#: View/Users/admin_view.ctp:89
+msgid "Related Feedback"
+msgstr ""
+
+#: View/Users/admin_view.ctp:96
+msgid "Subject Id"
+msgstr ""
+
+#: View/Users/admin_view.ctp:124
+msgid ""
+"<span class=\"glyphicon glyphicon-plus\"></span>&nbsp;&nbsp;New Feedback"
+msgstr ""
+
+#: View/Users/login.ctp:31 View/Users/register.ctp:27
+msgid "Go back to Website"
+msgstr ""
+
+#: View/Users/login_old.ctp:30
+msgid "Do not have an account? Register here."
+msgstr ""
+
+#: View/Withs/admin_add.ctp:6
+msgid "Add With"
+msgstr ""
+
+#: View/Withs/admin_edit.ctp:6
+msgid "Edit With"
+msgstr ""
+
+#: View/Withs/admin_index.ctp:6
+msgid "Withs"
+msgstr ""
+
+#: View/Withs/admin_view.ctp:18
+msgid "<span class=\"glyphicon glyphicon-edit\"></span>&nbsp&nbsp;Edit With"
+msgstr ""
+
+#: View/Withs/admin_view.ctp:19
+msgid ""
+"<span class=\"glyphicon glyphicon-remove\"></span>&nbsp;&nbsp;Delete With"
+msgstr ""
+
+#: View/Withs/admin_view.ctp:20
+msgid "<span class=\"glyphicon glyphicon-list\"></span>&nbsp&nbsp;List Withs"
+msgstr ""
+
+#: View/Withs/admin_view.ctp:21
+msgid "<span class=\"glyphicon glyphicon-plus\"></span>&nbsp&nbsp;New With"
+msgstr ""
+
+#: View/Zones/admin_add.ctp:6
+msgid "Add Zone"
+msgstr ""
+
+#: View/Zones/admin_edit.ctp:6
+msgid "Edit Zone"
+msgstr ""
+
+#: View/Zones/admin_index.ctp:6
+msgid "Zones"
+msgstr ""
+
+#: View/Zones/admin_view.ctp:38
+msgid "Related Centers"
+msgstr ""
+
+#: Model/Author.php:validation for field id Model/Center.php:validation
+#: id;validation zone_id Model/City.php:validation state_id;validation
+#: country_id;validation district_id;validation taluka_id
+#: Model/Country.php:validation Model/District.php:validation state_id
+#: Model/Feedback.php:validation user_id;validation subject_id
+#: Model/FeedbackSubject.php:validation Model/Prasang.php:validation
+#: with_id;validation donor_zone_id;validation donor_center_id;validation
+#: author_id;validation status;validation created_by_user_id;validation
+#: published_by_user_id Model/Prasangrequest.php:validation submitted_user_id
+#: Model/Reference.php:validation reference_type_id;validation
+#: published_by_user_id;validation status Model/Section.php:validation
+#: Model/State.php:validation country_id Model/Subject.php:validation
+#: Model/Taluka.php:validation Model/User.php:validation group_id
+#: Model/UserDetail.php:validation user_type_id;validation mobile;validation
+#: taluka_id;validation city_id;validation zone_id;validation
+#: center_id;validation Model/UserType.php:validation Model/With.php:validation
+#: Model/Zone.php:validation
+msgid "numeric"
+msgstr ""
+
+#: Model/Author.php:validation for field name Model/Center.php:validation
+#: Model/City.php:validation Model/Country.php:validation
+#: Model/District.php:validation Model/FeedbackSubject.php:validation title
+#: Model/Reference.php:validation Model/Section.php:validation
+#: Model/State.php:validation Model/Subject.php:validation
+#: Model/Taluka.php:validation Model/UserDetail.php:validation
+#: first_name;validation last_name Model/UserType.php:validation type
+#: Model/With.php:validation Model/Zone.php:validation
+msgid "maxLength"
+msgstr ""
+
+#: Model/Center.php:validation for field name Model/City.php:validation
+#: name;validation state_id;validation country_id;validation
+#: district_id;validation taluka_id Model/Country.php:validation
+#: Model/District.php:validation Model/Feedback.php:validation
+#: user_id;validation subject_id;validation content
+#: Model/FeedbackSubject.php:validation title Model/Page.php:validation
+#: title;validation Model/Quote.php:validation quote
+#: Model/Reference.php:validation grade;validation reference_type_id;validation
+#: content;validation status Model/State.php:validation
+#: Model/Taluka.php:validation country_id Model/Tradition.php:validation
+#: Model/User.php:validation group_id Model/UserDetail.php:validation
+#: user_type_id;validation first_name;validation last_name;validation
+#: email;validation mobile;validation taluka_id;validation city_id;validation
+#: dob;validation gender;validation zone_id;validation center_id
+#: Model/UserType.php:validation type Model/With.php:validation
+#: Model/Zone.php:validation
+msgid "notEmpty"
+msgstr ""
+
+#: Model/Event.php:validation for field title
+msgid "Title is required"
+msgstr ""
+
+#: Model/Event.php:validation for field details
+msgid "Details is required"
+msgstr ""
+
+#: Model/Feedback.php:validation for field created;validation modified
+#: Model/Reference.php:validation Model/UserDetail.php:validation
+msgid "datetime"
+msgstr ""
+
+#: Model/Prasang.php:validation for field section_id
+#: Model/Prasangrequest.php:validation
+msgid "This field is Required"
+msgstr ""
+
+#: Model/Prasang.php:validation for field section_id
+#: Model/Prasangrequest.php:validation
+msgid "Section must be numeric"
+msgstr ""
+
+#: Model/Prasang.php:validation for field with_id;validation title;validation
+#: place;validation event;validation donor_name;validation
+#: donor_phone;validation donor_email;validation donor_zone_id;validation
+#: donor_center_id;validation author_id;validation status
+#: Model/Prasangrequest.php:validation donor_center_id
+#: Model/User.php:validation username
+msgid "This field is required"
+msgstr ""
+
+#: Model/Prasang.php:validation for field title
+#: Model/Prasangrequest.php:validation
+msgid "Maximum 254 characters are allowed"
+msgstr ""
+
+#: Model/Prasang.php:validation for field donor_phone
+#: Model/Prasangrequest.php:validation
+msgid "Please enter number"
+msgstr ""
+
+#: Model/Prasang.php:validation for field donor_email
+#: Model/Prasangrequest.php:validation
+msgid "Please enter valid email address"
+msgstr ""
+
+#: Model/Tradition.php:validation for field is_visible
+msgid "boolean"
+msgstr ""
+
+#: Model/User.php:validation for field username
+msgid "This username has already been taken."
+msgstr ""
+
+#: Model/User.php:validation for field confirm_password
+msgid "The passwords you entered do not match."
+msgstr ""
+
+#: Model/UserDetail.php:validation for field email
+msgid "email"
+msgstr ""
+
+#: Model/UserDetail.php:validation for field dob
+msgid "date"
+msgstr ""

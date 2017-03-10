@@ -1,0 +1,446 @@
+# Webalizer V2.23-08 Incremental Data - 03/09/2017 03:49:40
+2017 3 9 3 49 40
+532 273 12 109 24 9 38020259 156 21 0
+4 4 230 8 9
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+527 270 37870305 8 153 18
+5 3 149954 4 3 3
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 42860 1
+4 2 107094 2
+0 0 0 0
+0 0 0 0
+1 0 0 1
+2 0 0 2
+4 0 0 4
+43 17 8579 32
+68 17 24527 43
+230 116 22542521 48
+174 115 15080378 18
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+2 2 85720 2
+0 0 0 0
+1 1 42860 1
+0 0 0 0
+2 2 85720 2
+0 0 0 0
+0 0 0 0
+0
+0
+0
+273
+0
+0
+0
+0
+0
+0
+0
+0
+3
+0
+59
+0
+0
+0
+0
+0
+0
+103
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+94
+0
+0
+0
+0
+0
+# -urls- 
+/test.php
+0 18 12370096 564 0 0
+/template/assets/revolution/js/extensions/revolution.extension.actions.min.js
+0 3 12385984 14992 0 0
+/css/lib/chosen.min.css
+0 3 12354880 22390 0 0
+/js/common.js
+0 3 12384112 20628 0 0
+/prasangs/submit
+0 2 12393760 735214 1 0
+/pages/view/2
+0 1 12394704 24616 0 0
+/files/event/image/7/Untitled-3.png
+1 4 12382768 829683 0 0
+/files/quote/image/6/hari.jpg
+1 3 12394128 42960 0 0
+/users/check_username
+0 1 12388704 19 0 0
+/admin/pages/edit/1
+0 2 12391312 85026 0 0
+/js/ckeditor/styles.js
+0 2 12391984 6962 0 0
+/js/ckeditor/plugins/simpleselect/icons/abbr.png
+1 2 12392880 1386 0 0
+/feedbacks/add
+0 3 12393536 39811 1 0
+/template/assets/fonts/fontawesome-webfont.woff2
+0 3 12356208 141400 0 0
+/template/assets/css/assets.css
+0 3 12355824 727342 0 0
+/js/ckeditor/contents.css
+0 2 12392496 3838 0 0
+/districts/getByCountryState
+0 3 12388816 198 0 0
+/template/assets/images/world.png
+1 3 12385376 5320 0 0
+/files/event/image/3/Untitled-1.png
+1 4 12383280 1306041 0 0
+/css/sb-admin-2.css
+0 1 12389680 5593 0 0
+/template/assets/images/bgs/wall-ground.jpg
+1 3 12382112 504572 0 0
+/template/assets/js/script.js
+0 3 12383984 59914 0 0
+/bower_components/font-awesome/css/font-awesome.min.css
+0 1 12389792 21984 0 0
+/img/loading.gif
+1 2 12388480 3474 0 0
+/files/prasang/image/23/7.jpg
+1 1 12395120 307655 0 0
+/template/assets/revolution/js/extensions/revolution.extension.parallax.min.js
+0 3 12387008 17866 0 0
+/easyshare/jquery.kyco.easyshare.min.js
+0 3 12383536 9006 0 0
+/template/assets/images/sliders/rev/slider4/3/slider-bg.jpg
+1 3 6395345550898771250 744284 0 0
+/template/assets/revolution/css/navigation.css
+0 4 12355424 178701 0 0
+/js/bootstrap.min.js
+0 2 12388032 73736 0 0
+/centers/getByZone
+0 1 12394816 98 0 0
+/js/jquery.js
+0 2 12388368 191570 0 0
+/files/tradition/image/3/3.jpg
+1 4 12384608 243360 0 0
+/js/ckeditor/ckeditor.js
+0 3 12384224 1036948 0 0
+/admin/index
+0 1 12389072 11318 0 0
+/js/bootstrap_3_0_2.min.js
+0 1 12390048 27748 0 0
+/template/assets/images/tablo.png
+1 3 12382368 749148 0 0
+/template/assets/css/light.css
+0 3 12355952 22460 0 0
+/css/login.css
+0 2 12387824 5552 0 0
+/template/assets/revolution/css/settings.css
+0 3 12355280 70926 0 0
+/js/ckeditor/plugins/youtube/plugin.js
+0 2 12392240 52312 0 0
+/files/quote/image/10/Untitled-3.jpg
+1 3 12394000 62108 0 0
+/bower_components/metisMenu/dist/metisMenu.min.css
+0 1 12389536 781 0 0
+/files/event/image/8/0006._bapji.JPG
+1 4 12382896 559461 0 0
+/spiritual-succession/view/9
+0 1 12393168 18672 0 0
+/template/assets/revolution/js/extensions/revolution.extension.layeranimation.min.js
+0 3 12386304 64050 0 0
+/files/prasang/image/21/51.jpg
+1 4 12385504 1357947 0 0
+/js/ckeditor/plugins/simpleselect/plugin.js
+0 2 12392096 2754 0 0
+/favicon.ico
+0 20 12369904 10446 0 0
+/template/assets/revolution/fonts/pe-icon-7-stroke/css/pe-icon-7-stroke.css
+0 3 12355104 19484 0 0
+/css/bootstrap-theme_3_0_2.min.css
+0 1 12389408 17706 0 0
+/js/ckeditor/config.js
+0 2 12391520 3244 0 0
+/js/lib/chosen.jquery.min.js
+0 3 12383408 56002 0 0
+/files/prasang/image/25/f vicharan 3.JPG
+1 1 12395248 342376 0 0
+/template/assets/images/sliders/rev/slider4/1/slider-bg.jpg
+1 3 0 1577746 0 0
+/template/assets/revolution/js/extensions/revolution.extension.migration.min.js
+0 3 12386832 12208 0 0
+/template/assets/revolution/js/extensions/revolution.extension.navigation.min.js
+0 3 12386480 51566 0 0
+/files/quote/image/5/hari.jpg
+1 4 12381568 64440 0 0
+/template/assets/images/over2.svg
+0 3 12381856 1458 0 0
+/bower_components/metisMenu/dist/metisMenu.min.js
+0 1 12390176 1879 0 0
+/img/favicon.ico
+0 1 12394592 16958 0 0
+/css/style.css
+0 1 12389936 2131 0 0
+/files/tradition/image/4/4.jpg
+1 4 12384736 207177 0 0
+/template/assets/revolution/js/extensions/revolution.extension.kenburn.min.js
+0 3 12386656 6236 0 0
+/css/bootstrap_3_0_2.min.css
+0 1 12389184 102897 0 0
+/files/tradition/image/2/2.jpg
+1 4 12384480 217860 0 0
+/js/ckeditor/lang/en.js
+0 2 12391872 21830 0 0
+/users/login
+0 3 12387712 38580 0 1
+/admin/pages
+0 2 12390944 30851 0 0
+/js/ckeditor/skins/moono/icons.png
+1 2 12392624 20454 0 0
+/files/prasang/image/13/siddhantoma khumariq.jpg
+1 4 12386160 1808823 0 0
+/pages/view/1
+0 2 12387472 79894 0 0
+/template/assets/css/shortcodes.css
+0 3 12355696 95532 0 0
+/css/bootstrap.min.css
+0 2 12388256 242520 0 0
+/css/datepicker.css
+0 3 12354992 65660 0 0
+/files/tradition/image/5/5.jpg
+1 4 12384864 208113 0 0
+/template/assets/revolution/js/extensions/revolution.extension.video.min.js
+0 3 12385808 46778 0 0
+/template/assets/revolution/fonts/revicons/revicons.woff
+0 3 0 15072 0 0
+/fonts/glyphicons-halflings-regular.woff
+0 1 12391056 23292 0 0
+/template/assets/revolution/js/jquery.themepunch.tools.min.js
+0 3 0 209256 0 0
+/template/assets/images/bgs/foot-bg.jpg
+1 3 12385248 159660 0 0
+/template/assets/images/sliders/rev/slider4/2/slider-bg.jpg
+1 3 0 601432 0 0
+/files/prasang/image/22/6.jpg
+1 4 12385120 890709 0 0
+/files/page/image/1/about.jpg
+1 6 12387584 286312 0 0
+/template/assets/images/patterns/vertical-sep.png
+1 1 12393392 924 0 0
+/template/assets/revolution/js/extensions/revolution.extension.slideanims.min.js
+0 3 12385632 56250 0 0
+/files/tradition/image/6/6.jpg
+1 4 12384992 233847 0 0
+/js/login.js
+0 2 12388144 1446 0 0
+/js/ckeditor/plugins/youtube/images/icon.png
+1 2 12393024 838 0 0
+/img/default-prasang.jpg
+1 1 12395392 371842 0 0
+/
+0 23 12369792 13533768 13 3
+/talukas/getByCountryStateDistrict
+0 3 12388944 396 0 0
+/js/ckeditor/skins/moono/editor.css
+0 2 12391744 62328 0 0
+/js/bootstrap-datepicker.js
+0 3 12383024 101744 0 0
+/template/assets/revolution/js/jquery.themepunch.revolution.min.js
+0 3 0 109820 0 0
+/template/assets/images/patterns/pattern-2.jpg
+1 3 12382496 15190 0 0
+/prasangs
+0 1 12390736 49594 0 0
+/js/sb-admin-2.js
+0 1 12390320 1181 0 0
+/states/getByCountry
+0 3 12388592 1473 0 1
+/js/ckeditor/plugins/youtube/lang/en.js
+0 2 12392368 1886 0 0
+/files/event/image/2/Untitled-2.png
+1 4 12382640 1015257 0 0
+/template/assets/css/skins/6.css
+0 3 12356080 13210 0 0
+/files/quote/image/11/Untitled-3.jpg
+1 3 12393872 62108 0 0
+/files/tradition/image/7/00 Sahajanand Swami- reduce size for website image.jpg
+1 3 12394256 684586 0 0
+/template/assets/js/assets.js
+0 3 12383152 643694 0 0
+/bower_components/font-awesome/fonts/fontawesome-webfont.woff
+0 1 0 65452 0 0
+/files/tradition/image/1/1.jpg
+1 4 12384352 218853 0 0
+/files/tradition/image/9/00 Bapa-reduce size for website image 
+0 3 0 614756 0 0
+/template/assets/css/style.css
+0 3 12355568 232216 0 0
+# End Of Table - urls
+# -sites- (monthly)
+45.63.115.240.vultr.com
+0 2 2 85720 1 1489008812
+/
+google-proxy-66-102-7-252.google.com
+0 1 0 527 1 1488968518
+-
+104.236.111.40
+0 1 1 42860 1 1489031380
+/
+hosted-by.leaseweb.com
+0 1 1 42860 1 1489027392
+/
+202.131.97.178
+0 117 51 8238678 6 1488973700
+/talukas/getByCountryStateDistrict
+static-138.93.93.111-tataidc.co.in
+0 130 93 9736743 4 1488977741
+/
+google-proxy-66-102-7-253.google.com
+0 1 0 527 1 1488968518
+/
+dreamatorium.badexample.net
+0 1 1 42860 1 1489001785
+/
+aurora.enn.lu
+0 2 2 85720 1 1488995296
+/
+ns7000703.ip-158-69-229.net
+0 1 1 42924 1 1489031043
+/
+cpe-101-183-230-30.lnse6.woo.bigpond.net.au
+0 273 121 19679530 3 1488975076
+/
+rin2.dizinc.com
+0 2 0 21310 0 0
+-
+# End Of Table - sites (monthly)
+# -sites- (daily)
+104.236.111.40
+0 1 1 42860 1 1489031380
+/
+hosted-by.leaseweb.com
+0 1 1 42860 1 1489027392
+/
+ns7000703.ip-158-69-229.net
+0 1 1 42924 1 1489031043
+/
+rin2.dizinc.com
+0 2 0 21310 0 0
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://anadimukta.org/pages/view/2
+0 1
+http://anadimukta.org/admin/index
+0 10
+http://anadimukta.org/js/ckeditor/skins/moono/editor.css
+0 2
+http://anadimukta.org
+0 1
+http://anadimukta.org/template/assets/css/style.css
+0 13
+http://pizza-tycoon.com/
+0 1
+http://anadimukta.org/index.php
+0 6
+http://anadimukta.org/admin/pages/edit/1
+0 14
+http://anadimukta.org/spiritual-succession/view/9
+0 1
+- (Direct Request)
+0 115
+http://anadimukta.org/admin/pages
+0 2
+http://anadimukta.org/users/login
+0 27
+http://anadimukta.org/template/assets/revolution/css/settings.css
+0 3
+http://anadimukta.org/bower_components/font-awesome/css/font-awesome.min.css
+0 1
+http://anadimukta.org/pages/view/1
+0 1
+http://anadimukta.org/template/assets/css/assets.css
+0 3
+http://anadimukta.org/template/assets/css/shortcodes.css
+0 3
+http://burger-imperia.com/
+0 2
+http://anadimukta.org/test.php
+0 23
+http://anadimukta.org/prasangs/submit
+0 15
+http://anadimukta.org/feedbacks/add
+0 3
+http://anadimukta.org/
+0 283
+http://anadimukta.org/css/bootstrap_3_0_2.min.css
+0 1
+http://anadimukta.org/prasangs
+0 1
+# End Of Table - referrers
+# -agents- 
+CRAZYWEBCRAWLER 0.9.10, http://www.crazywebcrawler.com
+0 1
+Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 390
+Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36
+0 1
+Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.5; fr; rv:1.9.0.3) Gecko/2008092414 Firefox/3.0.3
+0 1
+Cpanel-HTTP-Client/1.0
+0 2
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/37.0.2062.120 Safari/537.36
+0 3
+Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.75 Safari/537.36 Google Favicon
+0 2
+CATExplorador/1.0beta (sistemes at domini dot cat; http://domini.cat/catexplorador.html)
+0 2
+Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.87 Safari/537.36
+0 130
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
